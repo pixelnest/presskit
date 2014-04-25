@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+	<title>Pixelnest Studio</title>
+	<founding-date>February 6, 2014</founding-date>
+	<website>http://pixelnest.io/</website>
+	<based-in>Rennes, France</based-in>
+
+	<press-contact>contact@pixelnest.io</press-contact>
+	<phone>N/A</phone>
+	<address>
+		<line>81, Mail François Mitterrand</line>
+		<line>35000 Rennes</line>
+		<line>France</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/pixelnest</name>
+			<link>twitter.com/pixelnest</link>
+		</social>
+		<social>
+			<name>facebook.com/pixelneststudio</name>
+			<link>facebook.com/pixelneststudio</link>
+		</social>
+	</socials>
+
+	<description>
+		We are Pixelnest. We craft games and apps.
+	</description>
+
+	<histories>
+		<history>
+			<header>The great Paper years</header>
+			<text>
+				It all started with "The Great Paper Adventure", a shmup created by a group of students that included Damien Mayance and Matthieu Oger. Both then decided that creating their own dev studio to do what they want was way better than continuing to work for other companies. Thus, Pixelnest.
+			</text>
+		</history>
+		<history>
+			<header>Mobile and prototypes</header>
+			<text>
+				Damien and Matthieu worked on a lot of prototypes in the beginning. They developed "George le Pirate" with Marion Chrétien. This game was playable with the Leap Motion and was presented during the Stunfest 2013. Along with George, they also made an (almost complete) quizz for iOS—named "Super Koikoukesse"—with Laurent Brossard. Unfortunately, the project was not really fun, and they chose to cancel it. At this time, the goal of Pixelnest was to prioritize mobile developments. However, they finally dived deeper into the realm of Unity3D.
+			</text>
+		</history>
+		<history>
+			<header>Focus on Unity3D</header>
+			<text>
+				Fast-foward some months later. After a few weeks of labor, Damien and Matthieu published an in-depth tutorial about Unity and its brand new 2D tools (which was well-received by the community and is still attracting 30k~ visitors per month). Meanwhile, they kept on working on a "multiplayer-platformer-fighter" game codenamed RAMPAINT. It's still in development…
+			</text>
+		</history>
+		<history>
+			<header>Pixelnest Studio</header>
+			<text>
+				Because it's not really possible to do anything in France without a real company, the two decided to make the studio official on February 6th, 2014. Soon after that, they released "BulletML for Unity" on the Unity Asset Store. With "BulletML for Unity", they also developed a small game for the Stunfest (a french videogames festival) called "Shmupfest". Currently, the pair is working on an upcoming Shmup (again!) with Simon Coroller and a webapp dedicated to developers. They are also giving talks and conferences. Feel free to contact us!
+			</text>
+		</history>
+	</histories>
+
+	<trailers>
+		<trailer>
+			<name>Shmupfest — Trailer</name>
+			<youtube>N4cRAA7Q-p4</youtube>
+		</trailer>
+		<trailer>
+			<name>Rampaint — Early gameplay footage</name>
+			<youtube>Wee-F32Zcp0</youtube>
+		</trailer>
+		<trailer>
+			<name>George le Pirate — Trailer/Teaser</name>
+			<youtube>RYJZvZfvyZY</youtube>
+		</trailer>
+	</trailers>
+
+	<!--
+
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+
+	-->
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+
+	<analytics>UA-40226469-5</analytics>
+
+	<additionals>
+		<additional>
+			<title>Pixelnest Journal</title>
+			<description>RSS feed at</description>
+			<link>feedpress.me/pixelnest</link>
+		</additional>
+
+		<additional>
+			<title>Damien Mayance on Twitter</title>
+			<description>Personal tweets by Damien (@valryon) at</description>
+			<link>twitter.com/valryon</link>
+		</additional>
+
+		<additional>
+			<title>Damien Mayance's Blog</title>
+			<description>Damien at</description>
+			<link>dmayance.com</link>
+		</additional>
+
+		<additional>
+			<title>Matthieu Oger on Twitter</title>
+			<description>Personal tweets by Matthieu (@solarsailer) at</description>
+			<link>twitter.com/valryon</link>
+		</additional>
+
+		<additional>
+			<title>Matthieu Oger's Blog</title>
+			<description>Matthieu at</description>
+			<link>solarsailer.net</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<!-- team -->
+		<credit>
+			<person>Damien Mayance</person>
+			<website>dmayance.com</website>
+			<role>Founder, Developer, Pixelnest</role>
+		</credit>
+		<credit>
+			<person>Matthieu Oger</person>
+			<website>solarsailer.net</website>
+			<role>Founder, Developer, Designer, Pixelnest</role>
+		</credit>
+
+		<!-- collaborators -->
+		<credit>
+			<person>Marion Chrétien</person>
+			<website>marion-chretien.fr</website>
+			<role>Artist, Collaborator</role>
+		</credit>
+		<credit>
+			<person>Simon Coroller</person>
+			<website>pluspixels.tumblr.com</website>
+			<role>Artist, Collaborator</role>
+		</credit>
+	</credits>
+
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>site@pixelnest.io</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>twitter.com/pixelnest</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>facebook.com/pixelneststudio</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>pixelnest.io</link>
+		</contact>
+	</contacts>
+</game>
