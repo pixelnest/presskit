@@ -15,18 +15,25 @@ apt-get install -y php5 php5-common libapache2-mod-php5 php5-cli
 mkdir /pxn && ln -sf /vagrant /pxn/presskit
 
 # -------------------------------------------------------
+# Variables.
+# -------------------------------------------------------
+
+REPO=/pxn/presskit
+WWW=/var/www/presskit
+
+# -------------------------------------------------------
 # Presskit installation and configuration.
 # -------------------------------------------------------
 
 # Download presskit().
 cd /tmp
 wget http://dopresskit.com/dopresskit_install.zip
-mkdir /var/www/presskit
-unzip dopresskit_install.zip -d /var/www/presskit/
+mkdir $WWW
+unzip dopresskit_install.zip -d $WWW
 rm dopresskit_install.zip
 
 # Install presskit().
-cd /var/www/presskit/
+cd $WWW
 php install.php
 
 # Clean-up.
@@ -35,8 +42,29 @@ rm -rf images/
 rm install.php
 
 # Symlinks.
-ln -sf /pxn/presskit/data.xml /var/www/presskit/
-ln -sf /pxn/presskit/images/  /var/www/presskit/
+ln -sf $REPO/data.xml $WWW
+ln -sf $REPO/images/  $WWW
+
+#
+# Sub-presskits
+#
+
+mkdir $WWW/shmupfest
+mkdir $WWW/bulletml_for_unity
+mkdir $WWW/tutorials
+mkdir $WWW/talks
+
+ln -sf $REPO/shmupfest/data.xml          $WWW/shmupfest/
+ln -sf $REPO/shmupfest/images/           $WWW/shmupfest/
+
+ln -sf $REPO/bulletml_for_unity/data.xml $WWW/bulletml_for_unity/
+ln -sf $REPO/bulletml_for_unity/images/  $WWW/bulletml_for_unity/
+
+ln -sf $REPO/tutorials/data.xml          $WWW/tutorials/
+ln -sf $REPO/tutorials/images/           $WWW/tutorials/
+
+ln -sf $REPO/talks/data.xml              $WWW/talks/
+ln -sf $REPO/talks/images/               $WWW/talks/
 
 # -------------------------------------------------------
 # Apache
@@ -46,8 +74,25 @@ echo '<Directory /var/www/presskit>' >> /etc/apache2/apache2.conf
 echo '  Options Indexes Multiviews FollowSymLinks' >> /etc/apache2/apache2.conf
 echo '</Directory>' >> /etc/apache2/apache2.conf
 
-chmod 755 /var/www/presskit/images
-chmod 644 /var/www/presskit/images/*
+# Main-presskit.
+chmod 755 $WWW/images
+chmod 644 $WWW/images/*
+
+#
+# Sub-presskits
+#
+
+chmod 755 $WWW/shmupfest/images
+chmod 644 $WWW/shmupfest/images/*
+
+chmod 755 $WWW/bulletml_for_unity/images
+chmod 644 $WWW/bulletml_for_unity/images/*
+
+chmod 755 $WWW/tutorials/images
+chmod 644 $WWW/tutorials/images/*
+
+chmod 755 $WWW/talks/images
+chmod 644 $WWW/talks/images/*
 
 sudo service apache2 stop
 sudo service apache2 start
