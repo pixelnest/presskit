@@ -24,6 +24,8 @@ cd /var/www/presskit
 
 php index.php > /pxn/presskit/index.html
 php style.css > /pxn/presskit/style.css
+
+php shmupfest/index.php > /pxn/presskit/
 ```
 
 TODO: shell script.
