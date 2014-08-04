@@ -3,37 +3,37 @@
 <game>
 	<title>Shmupfest</title>
 	<release-date>2 May, 2014</release-date>
-	<website>http://shmupfest.stunfest.fr/</website>
+	<website>pixelnest.io/shmupfest</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
 	<platforms>
 		<platform>
-			<name>PC / Mac / Linux / Web</name>
-			<link>http://shmupfest.stunfest.fr/play</link>
+			<name>Windows, Mac, Linux &#38; Web</name>
+			<link>pixelnest.io/shmupfest/play</link>
 		</platform>
 	</platforms>
 
 	<prices>
 		<price>
-			<currency>FREE</currency>
-			<value></value>
+			<currency></currency>
+			<value>Free</value>
 		</price>
 	</prices>
 
 	<description>
-	The Shmupfest is a game we made for the Stunfest 2014, a french video game festival based in Rennes. It's an infinite retro 2D Shoot'Em Up, created with Unity 3D.
+		The Shmupfest is a game we made for the Stunfest 2014, a french video game festival based in Rennes. It's an infinite retro 2D Shoot'Em Up, created with Unity 3D.
 	</description>
 
 	<history>
-	 3 Hit Combo, the association in charge of the Stunfest festival, imagined the game and offered us to make it for them. Their request was a Shoot Them Up game, with a retro feeling and big pixels, and with sprites designed by the Ulule's backers. Most pledges of the crowdfunding campaign were offering a sprite in the game, the more money you give the bigger your sprite is.
+		3 Hit Combo, the association in charge of the Stunfest festival, imagined the game and offered us to make it for them. Their request was a Shoot Them Up game, with a retro feeling and big pixels, and with sprites designed by the Ulule's backers. Most pledges of the crowdfunding campaign were offering a sprite in the game, the more money you give the bigger your sprite is.
 	</history>
 
 	<features>
+		<feature>Gameplay based on scoring, specially tailored to the Stunfest.</feature>
+		<feature>Huge list of sprites, created by the community.</feature>
 		<feature>Retro look'n'feel.</feature>
-		<feature>Sprites made by the community.</feature>
-		<feature>Gameplay based on scoring.</feature>
-		<feature>Awesome boss patterns, made with BulletML for Unity.</feature>
-		<feature>Music from the artists invited to the festival.</feature>
+		<feature>Incredible patterns, made with BulletML for Unity.</feature>
+		<feature>Music from the artists invited on the festival.</feature>
 	</features>
 
 	<trailers>
@@ -43,31 +43,28 @@
 		</trailer>
 	</trailers>
 
-	<!-- <additionals>
+	<additionals>
+
 		<additional>
-			<title>Original Soundtrack</title>
-			<description>Available for free from</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Stunfest</title>
+			<description>Learn more about the festival on</description>
+			<link>www.stunfest.fr/english-informations</link>
 		</additional>
-		<additional>
-			<title>Release Blog Post</title>
-			<description>The blog-post through which this game was released is available at</description>
-			<link>http://vlambeer.com/bloglink</link>
-		</additional>
-	</additionals> -->
+
+	</additionals>
 
 	<credits>
 		<credit>
 			<person>Damien Mayance</person>
-			<role>Development, Pixelnest Studio</role>
+			<role>Developer, Pixelnest Studio</role>
 		</credit>
 		<credit>
 			<person>Matthieu Oger</person>
-			<role>Development, Vlambeer</role>
+			<role>Developer, Pixelnest Studio</role>
 		</credit>
 		<credit>
-			<person>3 Hit Combo</person>
-			<role>Original idea and request</role>
+			<person>Stunfest</person>
+			<role>Organizers, 3 Hit Combo</role>
 		</credit>
 	</credits>
 </game>

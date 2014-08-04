@@ -49,22 +49,18 @@ ln -sf $REPO/images/  $WWW
 # Sub-presskits
 #
 
+mkdir $WWW/supermassive
 mkdir $WWW/shmupfest
 mkdir $WWW/bulletml_for_unity
-mkdir $WWW/tutorials
-mkdir $WWW/talks
+
+ln -sf $REPO/supermassive/data.xml       $WWW/supermassive/
+ln -sf $REPO/supermassive/images/        $WWW/supermassive/
 
 ln -sf $REPO/shmupfest/data.xml          $WWW/shmupfest/
 ln -sf $REPO/shmupfest/images/           $WWW/shmupfest/
 
 ln -sf $REPO/bulletml_for_unity/data.xml $WWW/bulletml_for_unity/
 ln -sf $REPO/bulletml_for_unity/images/  $WWW/bulletml_for_unity/
-
-ln -sf $REPO/tutorials/data.xml          $WWW/tutorials/
-ln -sf $REPO/tutorials/images/           $WWW/tutorials/
-
-ln -sf $REPO/talks/data.xml              $WWW/talks/
-ln -sf $REPO/talks/images/               $WWW/talks/
 
 # -------------------------------------------------------
 # Apache
@@ -82,17 +78,14 @@ chmod 644 $WWW/images/*
 # Sub-presskits
 #
 
+chmod 755 $WWW/supermassive/images
+chmod 644 $WWW/supermassive/images/*
+
 chmod 755 $WWW/shmupfest/images
 chmod 644 $WWW/shmupfest/images/*
 
 chmod 755 $WWW/bulletml_for_unity/images
 chmod 644 $WWW/bulletml_for_unity/images/*
-
-chmod 755 $WWW/tutorials/images
-chmod 644 $WWW/tutorials/images/*
-
-chmod 755 $WWW/talks/images
-chmod 644 $WWW/talks/images/*
 
 sudo service apache2 stop
 sudo service apache2 start

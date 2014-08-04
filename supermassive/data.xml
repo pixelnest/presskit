@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Supermassive</title>
+	<release-date>TBA<!-- Day Month, Year --></release-date>
+	<website>http://supermassive.pixelnest.io/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>TBA</name>
+			<link>http://supermassive.pixelnest.io/</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<currency></currency>
+			<value>TBA</value>
+		</price>
+	</prices>
+
+	<description>
+		SUPERMASSIVE is a frenetic space shooter, carved in big beautiful pixels. Embark in your ship and engage the fight against dreadful space pirates in an never-ending run to make the biggest score! In SUPERMASSIVE, each new enemy you will encounter is bigger and better than the previous ones. But, fear not! Your weapons are as equally sized.
+
+		LAUNCH. ENGAGE. CRUSH!
+	</description>
+
+	<history>
+		After the SHMUPFEST and BULLETML FOR UNITY, the conclusion for Pixelnest was to create a full-featured space shooter. For some times, Pixelnest was in discussion with Simon Coroller to band together to create a pixel-art game. The love of spaceships and pirates converged, and thus, SUPERMASSIVE was born.
+	</history>
+
+	<features>
+		<feature>Never-ending gameplay.</feature>
+		<feature>Awesome boss fights.</feature>
+		<feature>Beautiful art and spaceships.</feature>
+		<feature>Quick and intense sessions, perfect for a break.</feature>
+		<feature>SCORING: beat your friends and be the best!</feature>
+	</features>
+
+	<!-- <trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>N4cRAA7Q-p4</youtube>
+		</trailer>
+	</trailers> -->
+
+	<additionals>
+		<additional>
+			<title>Supermassive Devblog</title>
+			<description>Follow the game development on</description>
+			<link>http://supermassive-devblog.tumblr.com/post/85709741000/supermassive</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Damien Mayance</person>
+			<role>Developer, Pixelnest Studio</role>
+		</credit>
+		<credit>
+			<person>Matthieu Oger</person>
+			<role>Project lead, Pixelnest Studio</role>
+		</credit>
+		<credit>
+			<person>Simon Coroller</person>
+			<role>Artist, Collaborator</role>
+		</credit>
+	</credits>
+</game>
