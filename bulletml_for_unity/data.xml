@@ -50,6 +50,15 @@
 		<feature>Completely documented.</feature>
 	</features>
 
+	<quotes>
+		<quote>
+			<description>This is -THE- plugin if you're looking to build your shmup with amazing enemy bullet patterns in a short time.</description>
+			<name>WY Leong</name>
+			<website>"BulletML for Unity" review</website>
+			<link>https://www.assetstore.unity3d.com/en/#!/content/16206</link>
+		</quote>
+	</quotes>
+
 	<additionals>
 		<additional>
 			<title>Shopping page</title>

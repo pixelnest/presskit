@@ -97,34 +97,23 @@
 		</award>
 	</awards>
 
+	-->
+
 	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>Your tutorial on Unity 2D game is one of the most awesome tutorial I've ever read. Keep it up guys :)</description>
+			<name>Jai Tiwari</name>
+			<website>Twitter</website>
+			<link>https://twitter.com/tweetjai/status/440215244032315392</link>
 		</quote>
+
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
-		</quote>
-		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
-		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
+			<description>A shout-out to Pixelnest for making a no-nonsense Unity2D tutorial that comes in text form! My heroes!</description>
+			<name>Caitlin</name>
+			<website>Twitter</website>
+			<link>https://twitter.com/CritterBucket/status/420330166456287232</link>
 		</quote>
 	</quotes>
-
-	-->
 
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
