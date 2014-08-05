@@ -31,11 +31,12 @@
 	</history>
 
 	<features>
-		<feature>Never-ending gameplay.</feature>
+		<feature>Never-ending arcade gameplay.</feature>
 		<feature>Awesome boss fights.</feature>
 		<feature>Beautiful art and spaceships.</feature>
 		<feature>Quick and intense sessions, perfect for a break.</feature>
 		<feature>SCORING: beat your friends and be the best!</feature>
+		<feature>HARDCORE mode: SUPERMASSIVE won't be beaten that easily if you are willing to take on its hardest mode.</feature>
 	</features>
 
 	<!-- <trailers>
