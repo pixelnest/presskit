@@ -3,17 +3,17 @@
 <game>
 	<title>BulletML For Unity</title>
 	<release-date>9 April, 2014</release-date>
-	<website>http://pixelnest.io/work/bulletml-for-unity/</website>
+	<website>pixelnest.io/work/bulletml-for-unity</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
 	<platforms>
 		<platform>
-			<name>PC, Mac (Unity3D)</name>
-			<link>http://bulletml-for-unity.pixelnest.io</link>
+			<name>Windows, Mac (Unity3D)</name>
+			<link>bulletml-for-unity.pixelnest.io</link>
 		</platform>
 		<platform>
 			<name>Demo (web)</name>
-			<link>http://pixelnest.io/work/bulletml-for-unity/demo/</link>
+			<link>pixelnest.io/work/bulletml-for-unity/demo</link>
 		</platform>
 	</platforms>
 
@@ -35,7 +35,7 @@
 	</description>
 
 	<history>
-		Pixelnest Studio wanted to use the BulletML library in their incoming shooter games. This way, they could create complex sequences and patterns and have better games.
+		Pixelnest Studio wanted to use the BulletML library in their incoming shooter games. This way, they could create complex sequences and patterns and enhance their shooters.
 
 		Then, they decided to create a complete plugin, with documentation, examples and patterns. They published it on the Unity Asset Store to reach a large audience and have a taste of the potential of this online store.
 	</history>
@@ -49,19 +49,6 @@
 		<feature>Multi-platform.</feature>
 		<feature>Completely documented.</feature>
 	</features>
-
-<!-- 	<trailers>
-		<trailer>
-			<name>Trailer</name>
-			<youtube>7jQbITg0MSk</youtube>
-			<vimeo>23571681</vimeo>
-		</trailer>
-		<trailer>
-			<name>Gameplay Video</name>
-			<youtube>7jQbITg0MSk</youtube>
-			<vimeo>23571681</vimeo>
-		</trailer>
-	</trailers> -->
 
 	<additionals>
 		<additional>
