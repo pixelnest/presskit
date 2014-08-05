@@ -29,21 +29,21 @@
 	</prices>
 
 	<description>
-		BulletML for Unity is a simple and powerful plugin for Unity 4.3 or higher.
+		BULLETML FOR UNITY is a simple and powerful plugin for Unity 4.3 or higher.
 
-		BulletML is a famous game library used in many shooters. It allows you to design and play some very complex bullet patterns with a simple XML file. It's especially useful in "Shoot'Em Up" games to create memorable boss fights or enemies.
+		BULLETML FOR UNITY is a thin wrapper which eases the integration of the famous game library BulletML (used in many shooters) into a Unity3D project. It allows you to design and play some very complex bullet patterns with a simple XML file. It's especially useful in "Shoot'Em Up" games to create memorable boss fights or enemies.
 	</description>
 
 	<history>
-		Pixelnest Studio wanted to use the BulletML library in their incoming shooter games. This way, they could create complex sequences and patterns and enhance their shooters.
+		Pixelnest Studio wanted to use the BulletML library in their incoming games. This way, they could create complex sequences and patterns and enhance their shooters.
 
-		Then, they decided to create a complete plugin, with documentation, examples and patterns. They published it on the Unity Asset Store to reach a large audience and have a taste of the potential of this online store.
+		Instead of keeping the code for them, they decided to create a complete plugin, with documentation, examples and patterns. They published it on the Unity Asset Store to reach a large audience and have a taste of the potential of this online store.
 	</history>
 
 	<features>
-		<feature>Simple and lightweight. No scripting required (if you don't want to).</feature>
+		<feature>Simple and lightweight. No scripting required.</feature>
 		<feature>XML files: easy ro read and to write.</feature>
-		<feature>Handle the difficulty directly within your patterns.</feature>
+		<feature>Handle the difficulty directly within the patterns.</feature>
 		<feature>Bullet bank mechanism. Associate a pattern's bullet to a sprite easily.</feature>
 		<feature>Customizable.</feature>
 		<feature>Multi-platform.</feature>
