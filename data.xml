@@ -32,7 +32,7 @@
 		<history>
 			<header>The great Paper years</header>
 			<text>
-				It all started with "The Great Paper Adventure", a shmup created by a group of students that included Damien Mayance and Matthieu Oger. Both then decided that creating their own dev studio to do what they want was way better than continuing to work for other companies. Thus, Pixelnest.
+				It all started with "The Great Paper Adventure", a shmup created by a group of students that included Damien Mayance and Matthieu Oger. Both then decided that creating their own dev studio was way better than continuing to work for other companies. And there starts the story of Pixelnest.
 			</text>
 		</history>
 		<history>
@@ -44,13 +44,19 @@
 		<history>
 			<header>Focus on Unity3D</header>
 			<text>
-				Fast-foward some months later. After a few weeks of labor, Damien and Matthieu published an in-depth tutorial about Unity and its brand new 2D tools (which was well-received by the community and is still attracting 30k~ visitors per month). Meanwhile, they kept on working on a "multiplayer-platformer-fighter" game codenamed RAMPAINT. It's still in development…
+				Fast-foward some months later. After a few weeks of labor, Damien and Matthieu published an in-depth tutorial about Unity and its brand new 2D tools (which was well-received by the community and is still attracting 30k~ visitors per month). Meanwhile, they kept on working on a "multiplayer-platformer-fighter" game codenamed RAMPAINT. Its development is currently in pause…
 			</text>
 		</history>
 		<history>
 			<header>Pixelnest Studio</header>
 			<text>
-				Because it's not really possible to do anything in France without a real company, the two decided to make the studio official on February 6th, 2014. Soon after that, they released "BulletML for Unity" on the Unity Asset Store. With "BulletML for Unity", they also developed a small game for the Stunfest (a french videogames festival) called "Shmupfest". Currently, the pair is working on an upcoming Shmup (again!) with Simon Coroller and a webapp dedicated to developers. They are also giving talks and conferences. Feel free to contact us!
+				Because it's not really possible to do anything in France without a real company, the two decided to make the studio official on February 6th, 2014. Soon after that, they released "BulletML for Unity" on the Unity Asset Store. Along with "BulletML for Unity", they also developed a small game for the Stunfest (a french videogames festival) called "Shmupfest". They are also giving talks and conferences. Feel free to contact us!
+			</text>
+		</history>
+		<history>
+			<header>Recent</header>
+			<text>
+				Currently, the pair is working on an upcoming shmup (again!) named SUPERMASSIVE, in collaboration with Plus (Simon Coroller). Its release date is scheduled for this fall.
 			</text>
 		</history>
 	</histories>
