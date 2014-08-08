@@ -11,6 +11,10 @@
 			<name>iOS - iPhone &#38; iPad</name>
 			<link>http://supermassive.pixelnest.io/</link>
 		</platform>
+		<platform>
+			<name>Android (a few months after iOS)</name>
+			<link>http://supermassive.pixelnest.io/</link>
+		</platform>
 	</platforms>
 
 	<prices>
@@ -39,12 +43,12 @@
 		<feature>HARDCORE mode: SUPERMASSIVE won't be beaten that easily if you are willing to take on its hardest mode.</feature>
 	</features>
 
-	<!-- <trailers>
+	<trailers>
 		<trailer>
-			<name>Trailer</name>
-			<youtube>N4cRAA7Q-p4</youtube>
+			<name>Supermassive - Teaser #1</name>
+			<youtube>2R4hqa3w27M</youtube>
 		</trailer>
-	</trailers> -->
+	</trailers>
 
 	<additionals>
 		<additional>
