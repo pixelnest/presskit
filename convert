@@ -6,7 +6,27 @@ cd /var/www/presskit
 php index.php > /pxn/presskit/index.html
 php style.css > /pxn/presskit/style.css
 
+# Link replacer.
+
+function fix_links {
+  sed -e 's/sheet.php?p=bulletml_for_unity/bulletml_for_unity.html/g' \
+      -e 's/sheet.php?p=shmupfest/shmupfest.html/g' \
+      -e 's/sheet.php?p=supermassive/supermassive.html/g' \
+      -e 's/sheet.php?p=credits/credits.html/g' \
+      -e 's/index.php/index.html/g' \
+      /pxn/presskit/$1.html > /tmp/tmp.html
+
+  mv /tmp/tmp.html /pxn/presskit/$1.html
+}
+
 # And here come the dirty hack to make presskit work…
+
+# -------------------------------------------------------
+# Credits
+# -------------------------------------------------------
+
+export QUERY_STRING="p=credits"
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/credits.html
 
 # -------------------------------------------------------
 # BulletML for Unity
@@ -33,9 +53,8 @@ php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /
 # Fix links.
 # -------------------------------------------------------
 
-sed -e 's/sheet.php?p=bulletml_for_unity/bulletml_for_unity.html/g' \
-    -e 's/sheet.php?p=shmupfest/shmupfest.html/g' \
-    -e 's/sheet.php?p=supermassive/supermassive.html/g' \
-    /pxn/presskit/index.html > /tmp/tmp.html
-
-mv /tmp/tmp.html /pxn/presskit/index.html
+fix_links index
+fix_links credits
+fix_links bulletml_for_unity
+fix_links shmupfest
+fix_links supermassive
