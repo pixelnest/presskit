@@ -1,0 +1,30 @@
+#!/bin/bash
+# Inside `vagrant ssh`.
+
+cd /var/www/presskit
+
+php index.php > /pxn/presskit/index.html
+php style.css > /pxn/presskit/style.css
+
+# And here come the dirty hack to make presskit work…
+
+# -------------------------------------------------------
+# BulletML for Unity
+# -------------------------------------------------------
+
+export QUERY_STRING="p=bulletml_for_unity"
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/bulletml_for_unity/index.html
+
+# -------------------------------------------------------
+# Shmupfest.
+# -------------------------------------------------------
+
+export QUERY_STRING="p=shmupfest"
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/shmupfest/index.html
+
+# -------------------------------------------------------
+# Supermassive.
+# -------------------------------------------------------
+
+export QUERY_STRING="p=supermassive"
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/supermassive/index.html

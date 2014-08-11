@@ -20,20 +20,15 @@ Run:
 
 ```shell
 vagrant ssh
-cd /var/www/presskit
-
-php index.php > /pxn/presskit/index.html
-php style.css > /pxn/presskit/style.css
-
-php bulletml_for_unity/index.php > /pxn/presskit/bulletml_for_unity/index.html
-php shmupfest/index.php          > /pxn/presskit/shmupfest/index.html
-php supermassive/index.php       > /pxn/presskit/supermassive/index.html
+/pxn/presskit/convert
 ```
+
+Then, modify the exported files.
+
+## Test
 
 To test the result:
 
 ```shell
 jekyll serve -w
 ```
-
-TODO: shell script.
