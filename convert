@@ -17,7 +17,6 @@ function convert {
   php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/$1.html
 }
 
-convert credits
 convert bulletml_for_unity
 convert shmupfest
 convert supermassive
@@ -30,7 +29,7 @@ function fix_links {
   sed -e 's/sheet.php?p=bulletml_for_unity/bulletml_for_unity.html/g' \
       -e 's/sheet.php?p=shmupfest/shmupfest.html/g' \
       -e 's/sheet.php?p=supermassive/supermassive.html/g' \
-      -e 's/sheet.php?p=credits/credits.html/g' \
+      -e 's|sheet.php?p=credits|http://dopresskit.com/#thanks|g' \
       -e 's/index.php/index.html/g' \
       /pxn/presskit/$1.html > /tmp/tmp.html
 
@@ -38,7 +37,7 @@ function fix_links {
 }
 
 fix_links index
-fix_links credits
+
 fix_links bulletml_for_unity
 fix_links shmupfest
 fix_links supermassive
