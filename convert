@@ -13,18 +13,18 @@ php style.css > /pxn/presskit/style.css
 # -------------------------------------------------------
 
 export QUERY_STRING="p=bulletml_for_unity"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/bulletml_for_unity/index.html
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/bulletml_for_unity.html
 
 # -------------------------------------------------------
 # Shmupfest.
 # -------------------------------------------------------
 
 export QUERY_STRING="p=shmupfest"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/shmupfest/index.html
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/shmupfest.html
 
 # -------------------------------------------------------
 # Supermassive.
 # -------------------------------------------------------
 
 export QUERY_STRING="p=supermassive"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/supermassive/index.html
+php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/supermassive.html
