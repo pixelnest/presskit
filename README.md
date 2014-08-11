@@ -19,8 +19,7 @@ Warning: provision the vagrant machine ONLY ONCE.
 Run:
 
 ```shell
-vagrant ssh
-/pxn/presskit/convert
+vagrant ssh -c /pxn/presskit/convert
 ```
 
 Then, modify the exported files.
