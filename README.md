@@ -25,7 +25,15 @@ cd /var/www/presskit
 php index.php > /pxn/presskit/index.html
 php style.css > /pxn/presskit/style.css
 
-php shmupfest/index.php > /pxn/presskit/
+php bulletml_for_unity/index.php > /pxn/presskit/bulletml_for_unity/index.html
+php shmupfest/index.php          > /pxn/presskit/shmupfest/index.html
+php supermassive/index.php       > /pxn/presskit/supermassive/index.html
+```
+
+To test the result:
+
+```shell
+jekyll serve -w
 ```
 
 TODO: shell script.
