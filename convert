@@ -6,7 +6,25 @@ cd /var/www/presskit
 php index.php > /pxn/presskit/index.html
 php style.css > /pxn/presskit/style.css
 
-# Link replacer.
+# And here come the dirty hacks to make presskit work…
+
+# -------------------------------------------------------
+# Convert pages.
+# -------------------------------------------------------
+
+function convert {
+  export QUERY_STRING="p=$1"
+  php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/$1.html
+}
+
+convert credits
+convert bulletml_for_unity
+convert shmupfest
+convert supermassive
+
+# -------------------------------------------------------
+# Fix links.
+# -------------------------------------------------------
 
 function fix_links {
   sed -e 's/sheet.php?p=bulletml_for_unity/bulletml_for_unity.html/g' \
@@ -18,40 +36,6 @@ function fix_links {
 
   mv /tmp/tmp.html /pxn/presskit/$1.html
 }
-
-# And here come the dirty hack to make presskit work…
-
-# -------------------------------------------------------
-# Credits
-# -------------------------------------------------------
-
-export QUERY_STRING="p=credits"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/credits.html
-
-# -------------------------------------------------------
-# BulletML for Unity
-# -------------------------------------------------------
-
-export QUERY_STRING="p=bulletml_for_unity"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/bulletml_for_unity.html
-
-# -------------------------------------------------------
-# Shmupfest.
-# -------------------------------------------------------
-
-export QUERY_STRING="p=shmupfest"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/shmupfest.html
-
-# -------------------------------------------------------
-# Supermassive.
-# -------------------------------------------------------
-
-export QUERY_STRING="p=supermassive"
-php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/supermassive.html
-
-# -------------------------------------------------------
-# Fix links.
-# -------------------------------------------------------
 
 fix_links index
 fix_links credits
