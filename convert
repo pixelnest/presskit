@@ -28,3 +28,14 @@ php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /
 
 export QUERY_STRING="p=supermassive"
 php -e -r 'parse_str($_SERVER["QUERY_STRING"], $_GET); include "sheet.php";' > /pxn/presskit/supermassive.html
+
+# -------------------------------------------------------
+# Fix links.
+# -------------------------------------------------------
+
+sed -e 's/sheet.php?p=bulletml_for_unity/bulletml_for_unity.html/g' \
+    -e 's/sheet.php?p=shmupfest/shmupfest.html/g' \
+    -e 's/sheet.php?p=supermassive/supermassive.html/g' \
+    /pxn/presskit/index.html > /tmp/tmp.html
+
+mv /tmp/tmp.html /pxn/presskit/index.html
