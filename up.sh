@@ -49,12 +49,12 @@ ln -sf $REPO/images/  $WWW
 # Sub-presskits
 #
 
-mkdir $WWW/supermassive
+mkdir $WWW/steredenn
 mkdir $WWW/shmupfest
 mkdir $WWW/bulletml_for_unity
 
-ln -sf $REPO/supermassive/data.xml       $WWW/supermassive/
-ln -sf $REPO/supermassive/images/        $WWW/supermassive/
+ln -sf $REPO/steredenn/data.xml          $WWW/steredenn/
+ln -sf $REPO/steredenn/images/           $WWW/steredenn/
 
 ln -sf $REPO/shmupfest/data.xml          $WWW/shmupfest/
 ln -sf $REPO/shmupfest/images/           $WWW/shmupfest/
@@ -78,8 +78,8 @@ chmod 644 $WWW/images/*
 # Sub-presskits
 #
 
-chmod 755 $WWW/supermassive/images
-chmod 644 $WWW/supermassive/images/*
+chmod 755 $WWW/steredenn/images
+chmod 644 $WWW/steredenn/images/*
 
 chmod 755 $WWW/shmupfest/images
 chmod 644 $WWW/shmupfest/images/*

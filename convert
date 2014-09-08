@@ -19,7 +19,7 @@ function convert {
 
 convert bulletml_for_unity
 convert shmupfest
-convert supermassive
+convert steredenn
 
 # -------------------------------------------------------
 # Fix links.
@@ -28,7 +28,7 @@ convert supermassive
 function fix_links {
   sed -e 's/sheet.php?p=bulletml_for_unity/bulletml_for_unity.html/g' \
       -e 's/sheet.php?p=shmupfest/shmupfest.html/g' \
-      -e 's/sheet.php?p=supermassive/supermassive.html/g' \
+      -e 's/sheet.php?p=steredenn/steredenn.html/g' \
       -e 's|sheet.php?p=credits|http://dopresskit.com/#thanks|g' \
       -e 's/index.php/index.html/g' \
       /pxn/presskit/$1.html > /tmp/tmp.html
@@ -40,4 +40,4 @@ fix_links index
 
 fix_links bulletml_for_unity
 fix_links shmupfest
-fix_links supermassive
+fix_links steredenn
