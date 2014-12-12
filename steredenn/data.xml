@@ -2,17 +2,21 @@
 
 <game>
 	<title>Steredenn</title>
-	<release-date>Coming this fall</release-date>
+	<release-date>First half of 2015</release-date>
 	<website>steredenn.pixelnest.io</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
 	<platforms>
 		<platform>
-			<name>iOS - iPhone &#38; iPad</name>
+			<name>Xbox One</name>
 			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
 		<platform>
-			<name>Android (a few months after iOS)</name>
+			<name>iOS - iPhone &#38; iPad (after)</name>
+			<link>http://steredenn.pixelnest.io/</link>
+		</platform>
+		<platform>
+			<name>Android (after)</name>
 			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
 	</platforms>
@@ -25,27 +29,46 @@
 	</prices>
 
 	<description>
-		STEREDENN is a frenetic space shooter, carved in big beautiful pixels. Embark in your ship and engage the fight against dreadful space pirates in a never-ending run to make the biggest score! In STEREDENN, each new enemy you will encounter is bigger and stronger than the previous ones. But, fear not! Your weapons are as equally sized.
-
-		LAUNCH. ENGAGE. CRUSH!
+		STEREDENN is a frenetic and chaotic space shooter, carved in big beautiful pixels with insane boss battles. Embark in your ship and engage the fight against dreadful space pirates in a never-ending combat for your survival. The game is quick, addictive, hard and packed with action.
 	</description>
 
-	<history>
-		After the SHMUPFEST and BULLETML FOR UNITY, the conclusion of this chapter for Pixelnest was to create a full-featured space shooter. For some times, Pixelnest was in discussion with Simon Coroller to band together to create a pixel-art game. The love of spaceships and pirates converged, and thus, STEREDENN was born. This new game continues where the SHMUPFEST was left. But even if the two share the same roots, STEREDENN takes it to a whole new level of fun and awesomeness, with a distinctive arena-like scoring system.
-	</history>
+	<histories>
+		<history>
+			<header>Original idea</header>
+			<text>
+				After the SHMUPFEST and BULLETML FOR UNITY, the conclusion of this chapter for Pixelnest was to create a full-featured space shooter. For some times, Pixelnest was in discussion with Simon Coroller to band together to create a pixel-art game. The love of spaceships and pirates converged, and thus, STEREDENN was born. This new game continues where the SHMUPFEST was left. But even if the two share the same roots, STEREDENN takes it to a whole new level of fun and awesomeness, with a distinctive arena-like scoring system.
+			</text>
+		</history>
+		<history>
+			<header>Evolution</header>
+			<text>
+				STEREDENN evolved a lot since its first prototype. The game is now at the crossroads between a shmup and a rogue-like. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (like a rain of asteroids, a comets field, an old battlespaceground, labyrinths of lasers, etc.).
+
+				Grab your guns and go kick those big-badass-boss you'll definitely encounter. Good luck.
+			</text>
+		</history>
+	</histories>
 
 	<features>
-		<feature>Endless arcade gameplay.</feature>
-		<feature>Awesome boss fights.</feature>
 		<feature>Beautiful art and spaceships.</feature>
-		<feature>Quick and intense sessions, perfect for a break.</feature>
+		<feature>Awesome boss fights.</feature>
+		<feature>Addictive, unforgiving.</feature>
+		<feature>Endless arcade gameplay.</feature>
+		<feature>Quick and intense sessions.</feature>
 		<feature>SCORING: beat your friends and be the best!</feature>
-		<feature>HARDCORE mode: STEREDENN won't be beaten that easily if you are willing to take on its hardest mode.</feature>
+		<feature>Try to pass all the hard hand-made challenges.</feature>
+		<feature>Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight.</feature>
+		<feature>Build your own custom ship and put it to the test.</feature>
+		<feature>HARDCORE: STEREDENN won't be beaten that easily if you are willing to take on its hardest mode.</feature>
 	</features>
 
 	<trailers>
 		<trailer>
-			<name>Steredenn - Teaser #1</name>
+			<name>Steredenn - Teaser #2</name>
+			<youtube>LMAmQLODcTg</youtube>
+		</trailer>
+		<trailer>
+			<name>Steredenn - Teaser #1 (first prototype)</name>
 			<youtube>ydeg_N86gBw</youtube>
 		</trailer>
 	</trailers>
@@ -70,6 +93,14 @@
 		<credit>
 			<person>Simon Coroller</person>
 			<role>Artist, Collaborator</role>
+		</credit>
+		<credit>
+			<person>Etienne Marque</person>
+			<role>Sound designer, Collaborator</role>
+		</credit>
+		<credit>
+			<person>Zander Noriega</person>
+			<role>Musician, Collaborator</role>
 		</credit>
 	</credits>
 </game>
