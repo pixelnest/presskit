@@ -11,14 +11,6 @@
 			<name>Xbox One</name>
 			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
-		<platform>
-			<name>iOS - iPhone &#38; iPad (after)</name>
-			<link>http://steredenn.pixelnest.io/</link>
-		</platform>
-		<platform>
-			<name>Android (after)</name>
-			<link>http://steredenn.pixelnest.io/</link>
-		</platform>
 	</platforms>
 
 	<prices>
