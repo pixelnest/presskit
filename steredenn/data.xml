@@ -11,6 +11,10 @@
 			<name>Xbox One</name>
 			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
+		<platform>
+			<name>Steam (PC/Mac - Greenlight)</name>
+			<link>http://steredenn-greenlight.pixelnest.io/</link>
+		</platform>
 	</platforms>
 
 	<prices>
@@ -50,7 +54,6 @@
 		<feature>SCORING: beat your friends and be the best!</feature>
 		<feature>Try to pass all the hard hand-made challenges.</feature>
 		<feature>Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight.</feature>
-		<feature>Build your own custom ship and put it to the test.</feature>
 		<feature>HARDCORE: STEREDENN won't be beaten that easily if you are willing to take on its hardest mode.</feature>
 	</features>
 
