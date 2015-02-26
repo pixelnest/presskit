@@ -12,15 +12,15 @@
 			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
 		<platform>
-			<name>Steam (PC/Mac - Greenlight)</name>
+			<name>Steam (PC/Mac/Linux)</name>
 			<link>http://steredenn-greenlight.pixelnest.io/</link>
 		</platform>
 	</platforms>
 
 	<prices>
 		<price>
-			<currency></currency>
-			<value>TBA</value>
+			<currency>USD</currency>
+			<value>9.99</value>
 		</price>
 	</prices>
 
