@@ -2,7 +2,7 @@
 
 <game>
 	<title>Steredenn</title>
-	<release-date>First half of 2015</release-date>
+	<release-date>Spring/Summer 2015</release-date>
 	<website>steredenn.pixelnest.io</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
@@ -57,6 +57,10 @@
 	</features>
 
 	<trailers>
+		<trailer>
+			<name>Steredenn - Gameplay #1</name>
+			<youtube>vUnwuNje110</youtube>
+		</trailer>
 		<trailer>
 			<name>Steredenn - Teaser #2</name>
 			<youtube>LMAmQLODcTg</youtube>
