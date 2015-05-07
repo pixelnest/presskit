@@ -22,6 +22,10 @@
 			<currency>USD</currency>
 			<value>9.99</value>
 		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>9.99</value>
+		</price>
 	</prices>
 
 	<description>
@@ -72,6 +76,11 @@
 	</trailers>
 
 	<additionals>
+		<additional>
+			<title>Request a press copy</title>
+			<description>Click on</description>
+			<link>https://dodistribute.com/access/q6r4aj9PNc/</link>
+		</additional>
 		<additional>
 			<title>Steredenn Devblog</title>
 			<description>Follow the game development on</description>
