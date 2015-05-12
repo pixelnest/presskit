@@ -13,7 +13,7 @@
 		</platform>
 		<platform>
 			<name>Steam (PC/Mac/Linux)</name>
-			<link>http://steredenn-greenlight.pixelnest.io/</link>
+			<link>http://store.steampowered.com/app/347160</link>
 		</platform>
 	</platforms>
 
@@ -62,16 +62,8 @@
 
 	<trailers>
 		<trailer>
-			<name>Steredenn - Gameplay #1</name>
-			<youtube>vUnwuNje110</youtube>
-		</trailer>
-		<trailer>
-			<name>Steredenn - Teaser #2</name>
-			<youtube>LMAmQLODcTg</youtube>
-		</trailer>
-		<trailer>
-			<name>Steredenn - Teaser #1 (first prototype)</name>
-			<youtube>ydeg_N86gBw</youtube>
+			<name>Steredenn - Trailer</name>
+			<youtube>EtyQMcc19xY</youtube>
 		</trailer>
 	</trailers>
 
