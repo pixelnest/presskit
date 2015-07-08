@@ -2,7 +2,7 @@
 
 <game>
 	<title>Steredenn</title>
-	<release-date>Spring/Summer 2015</release-date>
+	<release-date>Summer 2015</release-date>
 	<website>steredenn.pixelnest.io</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
@@ -29,25 +29,14 @@
 	</prices>
 
 	<description>
-		STEREDENN is a frenetic and chaotic space shooter, carved in big beautiful pixels with insane boss battles. Embark in your ship and engage the fight against dreadful space pirates in a never-ending combat for your survival. The game is quick, addictive, hard and packed with action.
+		STEREDENN is a frenetic and chaotic space shooter, carved in big beautiful pixels with insane boss battles. Embark in your ship and engage the fight against dreadful space pirates in a never-ending combat for your survival. The game is fast, addictive, hard and action-packed.
 	</description>
 
-	<histories>
-		<history>
-			<header>Original idea</header>
-			<text>
-				After the SHMUPFEST and BULLETML FOR UNITY, the conclusion of this chapter for Pixelnest was to create a full-featured space shooter. For some times, Pixelnest was in discussion with Simon Coroller to band together to create a pixel-art game. The love of spaceships and pirates converged, and thus, STEREDENN was born. This new game continues where the SHMUPFEST was left. But even if the two share the same roots, STEREDENN takes it to a whole new level of fun and awesomeness, with a distinctive arena-like scoring system.
-			</text>
-		</history>
-		<history>
-			<header>Evolution</header>
-			<text>
-				STEREDENN evolved a lot since its first prototype. The game is now at the crossroads between a shmup and a rogue-like. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (like a rain of asteroids, a comets field, an old battlespaceground, labyrinths of lasers, etc.).
+	<history>
+		STEREDENN is at the crossroads between a shmup and a roguelike. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (asteroid fields, laser rains, meteor showers, an old battlefield, labyrinths of lasers, etc.). And each time you defeat a boss, you can upgrade your ship to unlock new powers and abilities.
 
-				Grab your guns and go kick those big-badass-boss you'll definitely encounter. Good luck.
-			</text>
-		</history>
-	</histories>
+		Grab your guns and go kick those big-badass-bosses you'll definitely encounter. Good luck.
+	</history>
 
 	<features>
 		<feature>Beautiful art and spaceships.</feature>
@@ -55,8 +44,11 @@
 		<feature>Addictive, unforgiving.</feature>
 		<feature>Endless arcade gameplay.</feature>
 		<feature>Quick and intense sessions.</feature>
-		<feature>Try to pass all the hard hand-made challenges.</feature>
-		<feature>Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight.</feature>
+		<feature>LOTS of weapons. Driller, ultralaser, giant saw, robots, hypergun? We got you covered.</feature>
+		<feature>Improve your ship and unlock new powers and abilities with more than 25 upgrades.</feature>
+		<feature>Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight. Arena.</feature>
+		<feature>Try to pass all the hard hand-made Challenges.</feature>
+		<feature>Compete against the world in the Superplay mode where there's no random.</feature>
 		<feature>SCORING: beat your friends and be the best!</feature>
 	</features>
 
@@ -66,6 +58,22 @@
 			<youtube>EtyQMcc19xY</youtube>
 		</trailer>
 	</trailers>
+
+	<quotes>
+		<quote>
+			<description>It’s pure space shooter pixel art.</description>
+			<name>James Cunningham</name>
+			<website>HardcoreGamer</website>
+			<link>http://www.hardcoregamer.com/2015/05/19/shooting-through-the-horizontally-scrolling-2d-starscape-of-steredenn/149336/</link>
+		</quote>
+
+		<quote>
+			<description>Steredenn is an addicting early-access shmup with gorgeous retro environments and fast-paced never-ending combat set to fun, high energy music that will have you wanting to “try one more time” over and over again!</description>
+			<name>Heather Tollis</name>
+			<website>IndieGamers UK</website>
+			<link>http://indiegamers.co.uk/archive/2015/05/18/lets-take-a-look-at-steredenn/</link>
+		</quote>
+	</quotes>
 
 	<additionals>
 		<additional>
@@ -77,6 +85,11 @@
 			<title>Steredenn Devblog</title>
 			<description>Follow the game development on</description>
 			<link>http://steredenn-game.tumblr.com/post/85709741000/steredenn</link>
+		</additional>
+		<additional>
+			<title>Steam Store Page</title>
+			<description>Steam Early Access on</description>
+			<link>http://store.steampowered.com/app/347160</link>
 		</additional>
 	</additionals>
 
