@@ -2,29 +2,29 @@
 
 <game>
 	<title>Steredenn</title>
-	<release-date>Summer 2015</release-date>
+	<release-date>October, 1st (PC/Mac/Linux)</release-date>
 	<website>steredenn.pixelnest.io</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
 	<platforms>
 		<platform>
-			<name>Xbox One</name>
-			<link>http://steredenn.pixelnest.io/</link>
-		</platform>
-		<platform>
 			<name>Steam (PC/Mac/Linux)</name>
 			<link>http://store.steampowered.com/app/347160</link>
+		</platform>
+		<platform>
+			<name>Xbox One</name>
+			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
 	</platforms>
 
 	<prices>
 		<price>
 			<currency>USD</currency>
-			<value>9.99</value>
+			<value>12.99</value>
 		</price>
 		<price>
 			<currency>EUR</currency>
-			<value>9.99</value>
+			<value>12.99</value>
 		</price>
 	</prices>
 
@@ -33,23 +33,24 @@
 	</description>
 
 	<history>
-		STEREDENN is at the crossroads between a shmup and a roguelike. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (asteroid fields, laser rains, meteor showers, an old battlefield, labyrinths of lasers, etc.). And each time you defeat a boss, you can upgrade your ship to unlock new powers and abilities.
+		STEREDENN is at the crossroads between a shmup and a roguelike. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (asteroid fields, laser rains, meteor showers, an old battlefield, labyrinths of lasers, etc.). Boss fights are hard, intense and epic. And each time you defeat one of those, you can upgrade your ship to unlock new powers and abilities.
 
-		Grab your guns and go kick those big-badass-bosses you'll definitely encounter. Good luck.
+		Grab your guns and go kick those big-badass-bosses you'll definitely encounter. Forge your own path across the universe. Good luck.
 	</history>
 
 	<features>
 		<feature>Beautiful art and spaceships.</feature>
 		<feature>Awesome boss fights.</feature>
-		<feature>Addictive, unforgiving.</feature>
+		<feature>Addictive, ruthless.</feature>
 		<feature>Endless arcade gameplay.</feature>
 		<feature>Quick and intense sessions.</feature>
-		<feature>LOTS of weapons. Driller, ultralaser, giant saw, robots, hypergun? We got you covered.</feature>
-		<feature>Improve your ship and unlock new powers and abilities with more than 25 upgrades.</feature>
-		<feature>Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight. Arena.</feature>
-		<feature>Try to pass all the hard hand-made Challenges.</feature>
-		<feature>Compete against the world in the Superplay mode where there's no random.</feature>
+		<feature>INFINITE REPLAYABILITY: levels are (practically) randomly-generated.</feature>
+		<feature>ARSENAL: 35 mighty weapons. Driller, ultralaser, giant saw, robots, hypergun? We got you covered.</feature>
+		<feature>UPGRADES: enhance your ship and unlock new powers and abilities with more than 25 upgrades. Many interactions and combos with your guns and other boosters.</feature>
 		<feature>SCORING: beat your friends and be the best!</feature>
+		<feature>DAILY RUN: everyday, try to be the first in a special leaderboard where all players share the same run, guns and bosses. Beware, you only get one chance per day!</feature>
+		<feature>ARENA: Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight.</feature>
+		<feature>SUPERPLAY: Defeat the game in a fixed variant where there's no random.</feature>
 	</features>
 
 	<trailers>
@@ -72,6 +73,13 @@
 			<name>Heather Tollis</name>
 			<website>IndieGamers UK</website>
 			<link>http://indiegamers.co.uk/archive/2015/05/18/lets-take-a-look-at-steredenn/</link>
+		</quote>
+
+		<quote>
+			<description>Overall, Steredenn is a unique twist on a long-lost arcade classic, the side-scrolling shmup of ye olden times. It throws in some creative use of procedural generation and bombastic soundtrack and doesn’t shy away from offering the player repeat playthroughs.</description>
+			<name>Graham</name>
+			<website>GameSpew</website>
+			<link>http://gamespew.com/2015/08/steredenn-early-access-review/</link>
 		</quote>
 	</quotes>
 
