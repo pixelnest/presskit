@@ -56,7 +56,11 @@
 
 	<trailers>
 		<trailer>
-			<name>Steredenn - Trailer</name>
+			<name>Steredenn - Launch Trailer</name>
+			<youtube>EtXajayBLzw</youtube>
+		</trailer>
+		<trailer>
+			<name>Steredenn - Early Access Trailer</name>
 			<youtube>EtyQMcc19xY</youtube>
 		</trailer>
 	</trailers>
