@@ -2,7 +2,7 @@
 
 <game>
 	<title>Steredenn</title>
-	<release-date>October, 1st (PC/Mac/Linux)</release-date>
+	<release-date>October, 1st - 2015 (PC/Mac/Linux)</release-date>
 	<website>steredenn.pixelnest.io</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
@@ -95,6 +95,16 @@
 			<link>https://dodistribute.com/access/q6r4aj9PNc/</link>
 		</additional>
 		<additional>
+			<title>Steam Store Page</title>
+			<description>Available on Steam on</description>
+			<link>http://store.steampowered.com/app/347160</link>
+		</additional>
+		<additional>
+			<title>Itch.io Page</title>
+			<description>Available on Itch.io on</description>
+			<link>http://pixelnest.itch.io/steredenn</link>
+		</additional>
+		<additional>
 			<title>Steredenn Devblog</title>
 			<description>Follow the game development on</description>
 			<link>http://steredenn-game.tumblr.com/post/85709741000/steredenn</link>
@@ -103,11 +113,6 @@
 			<title>Soundtrack</title>
 			<description>Available on</description>
 			<link>https://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
-		</additional>
-		<additional>
-			<title>Steam Store Page</title>
-			<description>Steam Early Access on</description>
-			<link>http://store.steampowered.com/app/347160</link>
 		</additional>
 	</additionals>
 
