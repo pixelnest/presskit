@@ -15,12 +15,12 @@
 
 	<socials>
 		<social>
-			<name>twitter.com/pixelnest</name>
-			<link>twitter.com/pixelnest</link>
+			<name>twitter.com/pixelnest/</name>
+			<link>twitter.com/pixelnest/</link>
 		</social>
 		<social>
-			<name>facebook.com/pixelneststudio</name>
-			<link>facebook.com/pixelneststudio</link>
+			<name>facebook.com/pixelneststudio/</name>
+			<link>facebook.com/pixelneststudio/</link>
 		</social>
 	</socials>
 
@@ -30,33 +30,8 @@
 
 	<histories>
 		<history>
-			<header>The great Paper years</header>
 			<text>
-				It all started with "The Great Paper Adventure", a shmup created by a group of students that included Damien Mayance and Matthieu Oger. Both then decided that creating their own dev studio was way better than continuing to work for other companies. And there starts the story of Pixelnest.
-			</text>
-		</history>
-		<history>
-			<header>Mobile and prototypes</header>
-			<text>
-				Damien and Matthieu worked on a lot of prototypes in the beginning. They developed "George le Pirate" with Marion Chrétien. This game was playable with the Leap Motion and was presented during the Stunfest 2013. Along with George, they also made an (almost complete) quizz for iOS—named "Super Koikoukesse"—with Laurent Brossard. Unfortunately, the project was not really fun, and they chose to cancel it. At this time, the goal of Pixelnest was to prioritize mobile developments. However, they finally dived deeper into the realm of Unity3D.
-			</text>
-		</history>
-		<history>
-			<header>Focus on Unity3D</header>
-			<text>
-				Fast-foward some months later. After a few weeks of labor, Damien and Matthieu published an in-depth tutorial about Unity and its brand new 2D tools (which was well-received by the community and is still attracting 30k~ visitors per month). Meanwhile, they kept on working on a "multiplayer-platformer-fighter" game codenamed RAMPAINT. Its development is currently in pause…
-			</text>
-		</history>
-		<history>
-			<header>Pixelnest Studio</header>
-			<text>
-				Because it's not really possible to do anything in France without a real company, the two decided to make the studio official on February 6th, 2014. Soon after that, they released "BulletML for Unity" on the Unity Asset Store. Along with "BulletML for Unity", they also developed a small game for the Stunfest (a french videogames festival) called "Shmupfest". They are also giving talks and conferences. Feel free to contact us!
-			</text>
-		</history>
-		<history>
-			<header>Recent</header>
-			<text>
-				Currently, the pair is working on an upcoming shmup (again!) named STEREDENN, in collaboration with Plus (Simon Coroller). Its release date is scheduled for… when it's done.
+				Pixelnest Studio is Damien Mayance and Matthieu Oger. The company was founded in 2014 in Rennes, France.
 			</text>
 		</history>
 	</histories>
@@ -196,11 +171,11 @@
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>twitter.com/pixelnest</link>
+			<link>twitter.com/pixelnest/</link>
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>facebook.com/pixelneststudio</link>
+			<link>facebook.com/pixelneststudio/</link>
 		</contact>
 		<contact>
 			<name>Web</name>
