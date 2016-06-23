@@ -2,7 +2,7 @@
 
 <game>
 	<title>Steredenn</title>
-	<release-date>October, 1st - 2015 (PC/Mac/Linux) April, 1st - 2016 (Xbox One)</release-date>
+	<release-date>October, 1st - 2015 (PC/Mac/Linux) April, 1st - 2016 (Xbox One) June, 28th - 2016 (PlayStation 4)</release-date>
 	<website>steredenn.pixelnest.io</website>
 	<press-can-request-copy>FALSE</press-can-request-copy>
 
@@ -13,6 +13,10 @@
 		</platform>
 		<platform>
 			<name>Xbox One</name>
+			<link>http://steredenn.pixelnest.io/</link>
+		</platform>
+		<platform>
+			<name>PlayStation 4</name>
 			<link>http://steredenn.pixelnest.io/</link>
 		</platform>
 	</platforms>
@@ -99,7 +103,7 @@
 		<additional>
 			<title>Request a press copy</title>
 			<description>Click on</description>
-			<link>https://dodistribute.com/access/q6r4aj9PNc/</link>
+			<link>https://www.keymailer.co/g/games/16588</link>
 		</additional>
 		<additional>
 			<title>Steam Store Page</title>
