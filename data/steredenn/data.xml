@@ -1,155 +1,153 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <product>
-	<title>Steredenn</title>
-	<website>http://steredenn.pixelnest.io/</website>
+  <title>Steredenn</title>
+  <website>http://steredenn.pixelnest.io/</website>
 
-	<release-dates>
-		<release-date>October, 1st - 2015 (PC/Mac/Linux)</release-date>
-		<release-date>April, 1st - 2016 (Xbox One)</release-date>
-		<release-date>June, 28th - 2016 (PlayStation 4)</release-date>
-	</release-dates>
+  <release-dates>
+    <release-date>October, 1st - 2015 (PC/Mac/Linux)</release-date>
+    <release-date>April, 1st - 2016 (Xbox One)</release-date>
+    <release-date>June, 28th - 2016 (PlayStation 4)</release-date>
+  </release-dates>
 
-	<redirect-from>/steredenn.html</redirect-from>
+  <redirect-from>/steredenn.html</redirect-from>
 
-	<platforms>
-		<platform>
-			<name>Steam (PC/Mac/Linux)</name>
-			<link>http://store.steampowered.com/app/347160</link>
-		</platform>
-		<platform>
-			<name>Xbox One</name>
-			<link>http://steredenn.pixelnest.io/</link>
-		</platform>
-		<platform>
-			<name>PlayStation 4</name>
-			<link>http://steredenn.pixelnest.io/</link>
-		</platform>
-	</platforms>
+  <platforms>
+    <platform>
+      <name>Steam (PC/Mac/Linux)</name>
+      <link>http://store.steampowered.com/app/347160</link>
+    </platform>
+    <platform>
+      <name>Xbox One</name>
+      <link>http://steredenn.pixelnest.io/</link>
+    </platform>
+    <platform>
+      <name>PlayStation 4</name>
+      <link>http://steredenn.pixelnest.io/</link>
+    </platform>
+  </platforms>
 
-	<prices>
-		<price>
-			<currency>USD</currency>
-			<value>12.99</value>
-		</price>
-		<price>
-			<currency>EUR</currency>
-			<value>12.99</value>
-		</price>
-	</prices>
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>12.99</value>
+    </price>
+    <price>
+      <currency>EUR</currency>
+      <value>12.99</value>
+    </price>
+  </prices>
 
-	<description>
-		STEREDENN is a frenetic and chaotic space shooter, carved in big beautiful pixels with insane boss battles. Embark in your ship and engage the fight against dreadful space pirates in a never-ending combat for your survival. The game is fast, addictive, hard and action-packed.
-	</description>
+  <description>
+    STEREDENN is a frenetic and chaotic space shooter, carved in big beautiful pixels with insane boss battles. Embark in your ship and engage the fight against dreadful space pirates in a never-ending combat for your survival. The game is fast, addictive, hard and action-packed.
+  </description>
 
-	<history>
-		STEREDENN is at the crossroads between a shmup and a roguelike. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (asteroid fields, laser rains, meteor showers, an old battlefield, labyrinths of lasers, etc.). Boss fights are hard, intense and epic. And each time you defeat one of those, you can upgrade your ship to unlock new powers and abilities.
+  <history>
+    STEREDENN is at the crossroads between a shmup and a roguelike. The gameplay is infinite and unforgiving. The levels are (almost)-randomly generated, with a lot of different and completely unpredictable events (asteroid fields, laser rains, meteor showers, an old battlefield, labyrinths of lasers, etc.). Boss fights are hard, intense and epic. And each time you defeat one of those, you can upgrade your ship to unlock new powers and abilities. Grab your guns and go kick those big-badass-bosses you'll definitely encounter. Forge your own path across the universe. Good luck.
+  </history>
 
-		Grab your guns and go kick those big-badass-bosses you'll definitely encounter. Forge your own path across the universe. Good luck.
-	</history>
+  <features>
+    <feature>Beautiful art and spaceships.</feature>
+    <feature>Awesome boss fights.</feature>
+    <feature>Addictive, ruthless.</feature>
+    <feature>Endless arcade gameplay.</feature>
+    <feature>Quick and intense sessions.</feature>
+    <feature>INFINITE REPLAYABILITY: levels are (practically) randomly-generated.</feature>
+    <feature>ARSENAL: 35 mighty weapons. Driller, ultralaser, giant saw, robots, hypergun? We got you covered.</feature>
+    <feature>UPGRADES: enhance your ship and unlock new powers and abilities with more than 25 upgrades. Many interactions and combos with your guns and other boosters.</feature>
+    <feature>SCORING: beat your friends and be the best!</feature>
+    <feature>DAILY RUN: everyday, try to be the first in a special leaderboard where all players share the same run, guns and bosses. Beware, you only get one chance per day!</feature>
+    <feature>ARENA: Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight.</feature>
+    <feature>SUPERPLAY: Defeat the game in a fixed variant where there's no random.</feature>
+    <feature>LANGUAGES: English, Japanese, French, Italian, German, Spanish, Russian, Korean, Brazilian Portuguese, Chinese, Breton.</feature>
+  </features>
 
-	<features>
-		<feature>Beautiful art and spaceships.</feature>
-		<feature>Awesome boss fights.</feature>
-		<feature>Addictive, ruthless.</feature>
-		<feature>Endless arcade gameplay.</feature>
-		<feature>Quick and intense sessions.</feature>
-		<feature>INFINITE REPLAYABILITY: levels are (practically) randomly-generated.</feature>
-		<feature>ARSENAL: 35 mighty weapons. Driller, ultralaser, giant saw, robots, hypergun? We got you covered.</feature>
-		<feature>UPGRADES: enhance your ship and unlock new powers and abilities with more than 25 upgrades. Many interactions and combos with your guns and other boosters.</feature>
-		<feature>SCORING: beat your friends and be the best!</feature>
-		<feature>DAILY RUN: everyday, try to be the first in a special leaderboard where all players share the same run, guns and bosses. Beware, you only get one chance per day!</feature>
-		<feature>ARENA: Unlock a boss by defeating it in the normal mode. Then, train against it in a 1 to 1 duel. Your guns, your laws, your fight.</feature>
-		<feature>SUPERPLAY: Defeat the game in a fixed variant where there's no random.</feature>
-		<feature>LANGUAGES: English, Japanese, French, Italian, German, Spanish, Russian, Korean, Brazilian Portuguese, Chinese, Breton.</feature>
-	</features>
+  <trailers>
+    <trailer>
+      <name>Steredenn - Launch Trailer</name>
+      <youtube>EtXajayBLzw</youtube>
+    </trailer>
+    <trailer>
+      <name>Steredenn - Early Access Trailer</name>
+      <youtube>EtyQMcc19xY</youtube>
+    </trailer>
+  </trailers>
 
-	<trailers>
-		<trailer>
-			<name>Steredenn - Launch Trailer</name>
-			<youtube>EtXajayBLzw</youtube>
-		</trailer>
-		<trailer>
-			<name>Steredenn - Early Access Trailer</name>
-			<youtube>EtyQMcc19xY</youtube>
-		</trailer>
-	</trailers>
+  <awards>
+    <award>
+      <description>Best Shoot'em-up 2015</description>
+      <info>jeuxvideo.com</info>
+    </award>
+  </awards>
 
-	<awards>
-		<award>
-			<description>Best Shoot'em-up 2015</description>
-			<info>jeuxvideo.com</info>
-		</award>
-	</awards>
+  <quotes>
+    <quote>
+      <description>It’s pure space shooter pixel art.</description>
+      <name>James Cunningham</name>
+      <website>HardcoreGamer</website>
+      <link>http://www.hardcoregamer.com/2015/05/19/shooting-through-the-horizontally-scrolling-2d-starscape-of-steredenn/149336/</link>
+    </quote>
+    <quote>
+      <description>Steredenn is an addicting early-access shmup with gorgeous retro environments and fast-paced never-ending combat set to fun, high energy music that will have you wanting to “try one more time” over and over again!</description>
+      <name>Heather Tollis</name>
+      <website>IndieGamers UK</website>
+      <link>http://indiegamers.co.uk/archive/2015/05/18/lets-take-a-look-at-steredenn/</link>
+    </quote>
+    <quote>
+      <description>Overall, Steredenn is a unique twist on a long-lost arcade classic, the side-scrolling shmup of ye olden times. It throws in some creative use of procedural generation and bombastic soundtrack and doesn’t shy away from offering the player repeat playthroughs.</description>
+      <name>Graham</name>
+      <website>GameSpew</website>
+      <link>http://gamespew.com/2015/08/steredenn-early-access-review/</link>
+    </quote>
+  </quotes>
 
-	<quotes>
-		<quote>
-			<description>It’s pure space shooter pixel art.</description>
-			<name>James Cunningham</name>
-			<website>HardcoreGamer</website>
-			<link>http://www.hardcoregamer.com/2015/05/19/shooting-through-the-horizontally-scrolling-2d-starscape-of-steredenn/149336/</link>
-		</quote>
-		<quote>
-			<description>Steredenn is an addicting early-access shmup with gorgeous retro environments and fast-paced never-ending combat set to fun, high energy music that will have you wanting to “try one more time” over and over again!</description>
-			<name>Heather Tollis</name>
-			<website>IndieGamers UK</website>
-			<link>http://indiegamers.co.uk/archive/2015/05/18/lets-take-a-look-at-steredenn/</link>
-		</quote>
-		<quote>
-			<description>Overall, Steredenn is a unique twist on a long-lost arcade classic, the side-scrolling shmup of ye olden times. It throws in some creative use of procedural generation and bombastic soundtrack and doesn’t shy away from offering the player repeat playthroughs.</description>
-			<name>Graham</name>
-			<website>GameSpew</website>
-			<link>http://gamespew.com/2015/08/steredenn-early-access-review/</link>
-		</quote>
-	</quotes>
+  <additionals>
+    <additional>
+      <title>Request a press copy</title>
+      <description>Click on</description>
+      <link>https://www.keymailer.co/g/games/16588</link>
+    </additional>
+    <additional>
+      <title>Steam Store Page</title>
+      <description>Available on Steam on</description>
+      <link>http://store.steampowered.com/app/347160</link>
+    </additional>
+    <additional>
+      <title>Itch.io Page</title>
+      <description>Available on Itch.io on</description>
+      <link>http://pixelnest.itch.io/steredenn</link>
+    </additional>
+    <additional>
+      <title>Steredenn Devblog</title>
+      <description>Follow the game development on</description>
+      <link>http://steredenn-game.tumblr.com/post/85709741000/steredenn</link>
+    </additional>
+    <additional>
+      <title>Soundtrack</title>
+      <description>Available on</description>
+      <link>https://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
+    </additional>
+  </additionals>
 
-	<additionals>
-		<additional>
-			<title>Request a press copy</title>
-			<description>Click on</description>
-			<link>https://www.keymailer.co/g/games/16588</link>
-		</additional>
-		<additional>
-			<title>Steam Store Page</title>
-			<description>Available on Steam on</description>
-			<link>http://store.steampowered.com/app/347160</link>
-		</additional>
-		<additional>
-			<title>Itch.io Page</title>
-			<description>Available on Itch.io on</description>
-			<link>http://pixelnest.itch.io/steredenn</link>
-		</additional>
-		<additional>
-			<title>Steredenn Devblog</title>
-			<description>Follow the game development on</description>
-			<link>http://steredenn-game.tumblr.com/post/85709741000/steredenn</link>
-		</additional>
-		<additional>
-			<title>Soundtrack</title>
-			<description>Available on</description>
-			<link>https://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
-		</additional>
-	</additionals>
-
-	<credits>
-		<credit>
-			<person>Damien Mayance</person>
-			<role>Developer, Pixelnest Studio</role>
-		</credit>
-		<credit>
-			<person>Matthieu Oger</person>
-			<role>Project lead, Pixelnest Studio</role>
-		</credit>
-		<credit>
-			<person>Simon Coroller</person>
-			<role>Artist, Collaborator</role>
-		</credit>
-		<credit>
-			<person>Etienne Marque</person>
-			<role>Sound designer, Collaborator</role>
-		</credit>
-		<credit>
-			<person>Zander Noriega</person>
-			<role>Musician, Collaborator</role>
-		</credit>
-	</credits>
+  <credits>
+    <credit>
+      <person>Damien Mayance</person>
+      <role>Developer, Pixelnest Studio</role>
+    </credit>
+    <credit>
+      <person>Matthieu Oger</person>
+      <role>Project lead, Pixelnest Studio</role>
+    </credit>
+    <credit>
+      <person>Simon Coroller</person>
+      <role>Artist, Collaborator</role>
+    </credit>
+    <credit>
+      <person>Etienne Marque</person>
+      <role>Sound designer, Collaborator</role>
+    </credit>
+    <credit>
+      <person>Zander Noriega</person>
+      <role>Musician, Collaborator</role>
+    </credit>
+  </credits>
 </product>

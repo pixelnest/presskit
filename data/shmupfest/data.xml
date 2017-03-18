@@ -1,89 +1,89 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <product>
-	<title>Shmupfest</title>
-	<website>http://pixelnest.io/shmupfest</website>
+  <title>Shmupfest</title>
+  <website>http://pixelnest.io/shmupfest</website>
 
-	<release-dates>
-		<release-date>2 May, 2014</release-date>
-	</release-dates>
+  <release-dates>
+    <release-date>2 May, 2014</release-date>
+  </release-dates>
 
-	<redirect-from>/shmupfest.html</redirect-from>
+  <redirect-from>/shmupfest.html</redirect-from>
 
-	<platforms>
-		<platform>
-			<name>Windows, Mac, Linux &#38; Web</name>
-			<link>http://pixelnest.io/shmupfest/play</link>
-		</platform>
-	</platforms>
+  <platforms>
+    <platform>
+      <name>Windows, Mac, Linux &#38; Web</name>
+      <link>http://pixelnest.io/shmupfest/play</link>
+    </platform>
+  </platforms>
 
-	<prices>
-		<price>
-			<value>Free</value>
-		</price>
-	</prices>
+  <prices>
+    <price>
+      <value>Free</value>
+    </price>
+  </prices>
 
-	<description>
-		The SHMUPFEST is a game created for the Stunfest 2014, a french video game festival based in Rennes. It's an infinite retro 2D "Shoot'Em Up", developed with Unity3D.
-	</description>
+  <description>
+    The SHMUPFEST is a game created for the Stunfest 2014, a french video game festival based in Rennes. It's an infinite retro 2D "Shoot'Em Up", developed with Unity3D.
+  </description>
 
-	<histories>
-		<history>
-			<header>Original idea</header>
-			<text>
-				3 Hit Combo, the association in charge of the Stunfest, imagined a game for its festival and offered Pixelnest Studio the opportunity to make it. Their request was either a "Shoot Them Up" (shmup) or a "Versus Fighting" game, with a retro feeling and big pixels. They decided to take the shmup route, with a small twist: each sprite was designed by a Ulule's backers (the rewards of the pledges of the crowdfunding campaign included a sprite in the game). The more money one donates to the festival, the bigger the sprite was.
-			</text>
-		</history>
-		<history>
-			<header>Development</header>
-			<text>
-				And so, Pixelnest Studio started the work on the shmup and a sprite editor. A month or two before the festival, the Sprite Editor was launched and the backers started (massively) to draw their own sprites. The result was more than 200 participations to the game art.
-			</text>
-		</history>
-		<history>
-			<header>Festival</header>
-			<text>
-				The game was a hit during the festival, with a huge queue of people waiting to play the game almost all the time. It was also playable in front of the festival's main entry, on a giant big screen.
-			</text>
-		</history>
-	</histories>
+  <histories>
+    <history>
+      <header>Original idea</header>
+      <text>
+        3 Hit Combo, the association in charge of the Stunfest, imagined a game for its festival and offered Pixelnest Studio the opportunity to make it. Their request was either a "Shoot Them Up" (shmup) or a "Versus Fighting" game, with a retro feeling and big pixels. They decided to take the shmup route, with a small twist: each sprite was designed by a Ulule's backers (the rewards of the pledges of the crowdfunding campaign included a sprite in the game). The more money one donates to the festival, the bigger the sprite was.
+      </text>
+    </history>
+    <history>
+      <header>Development</header>
+      <text>
+        And so, Pixelnest Studio started the work on the shmup and a sprite editor. A month or two before the festival, the Sprite Editor was launched and the backers started (massively) to draw their own sprites. The result was more than 200 participations to the game art.
+      </text>
+    </history>
+    <history>
+      <header>Festival</header>
+      <text>
+        The game was a hit during the festival, with a huge queue of people waiting to play the game almost all the time. It was also playable in front of the festival's main entry, on a giant big screen.
+      </text>
+    </history>
+  </histories>
 
-	<features>
-		<feature>Gameplay based on scoring, specially tailored to the Stunfest.</feature>
-		<feature>Huge list of sprites, created by the community.</feature>
-		<feature>Retro look and feel.</feature>
-		<feature>Incredible patterns, made with BulletML for Unity.</feature>
-		<feature>Music from the artists invited on the festival.</feature>
-	</features>
+  <features>
+    <feature>Gameplay based on scoring, specially tailored to the Stunfest.</feature>
+    <feature>Huge list of sprites, created by the community.</feature>
+    <feature>Retro look and feel.</feature>
+    <feature>Incredible patterns, made with BulletML for Unity.</feature>
+    <feature>Music from the artists invited on the festival.</feature>
+  </features>
 
-	<trailers>
-		<trailer>
-			<name>Trailer</name>
-			<youtube>N4cRAA7Q-p4</youtube>
-		</trailer>
-	</trailers>
+  <trailers>
+    <trailer>
+      <name>Trailer</name>
+      <youtube>N4cRAA7Q-p4</youtube>
+    </trailer>
+  </trailers>
 
-	<additionals>
+  <additionals>
 
-		<additional>
-			<title>Stunfest</title>
-			<description>Learn more about the festival on</description>
-			<link>http://www.stunfest.fr/english-informations</link>
-		</additional>
+    <additional>
+      <title>Stunfest</title>
+      <description>Learn more about the festival on</description>
+      <link>http://www.stunfest.fr/english-informations</link>
+    </additional>
 
-	</additionals>
+  </additionals>
 
-	<credits>
-		<credit>
-			<person>Damien Mayance</person>
-			<role>Developer, Pixelnest Studio</role>
-		</credit>
-		<credit>
-			<person>Matthieu Oger</person>
-			<role>Developer, Pixelnest Studio</role>
-		</credit>
-		<credit>
-			<person>3 Hit Combo, musicians and people</person>
-			<role>More details in the game's credits</role>
-		</credit>
-	</credits>
+  <credits>
+    <credit>
+      <person>Damien Mayance</person>
+      <role>Developer, Pixelnest Studio</role>
+    </credit>
+    <credit>
+      <person>Matthieu Oger</person>
+      <role>Developer, Pixelnest Studio</role>
+    </credit>
+    <credit>
+      <person>3 Hit Combo, musicians and people</person>
+      <role>More details in the game's credits</role>
+    </credit>
+  </credits>
 </product>

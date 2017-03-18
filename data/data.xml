@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-	<title>Pixelnest Studio</title>
-	<founding-date>February 6, 2014</founding-date>
-	<website>http://pixelnest.io/</website>
-	<based-in>Rennes, France</based-in>
+  <title>Pixelnest Studio</title>
+  <founding-date>February 6, 2014</founding-date>
+  <website>http://pixelnest.io/</website>
+  <based-in>Rennes, France</based-in>
 
-	<press-contact>contact@pixelnest.io</press-contact>
+  <press-contact>contact@pixelnest.io</press-contact>
 
-	<phone>N/A</phone>
+  <phone>N/A</phone>
 
-	<address>
-		<line>81, Mail François Mitterrand</line>
-		<line>35000 Rennes</line>
-		<line>France</line>
-	</address>
+  <address>
+    <line>81, Mail François Mitterrand</line>
+    <line>35000 Rennes</line>
+    <line>France</line>
+  </address>
 
-	<analytics>UA-40226469-5</analytics>
+  <analytics>UA-40226469-5</analytics>
 
-	<socials>
-		<social>
-			<name>twitter.com/pixelnest/</name>
-			<link>https://twitter.com/pixelnest/</link>
-		</social>
-		<social>
-			<name>facebook.com/pixelneststudio/</name>
-			<link>https://facebook.com/pixelneststudio/</link>
-		</social>
-	</socials>
+  <socials>
+    <social>
+      <name>twitter.com/pixelnest/</name>
+      <link>https://twitter.com/pixelnest/</link>
+    </social>
+    <social>
+      <name>facebook.com/pixelneststudio/</name>
+      <link>https://facebook.com/pixelneststudio/</link>
+    </social>
+  </socials>
 
-	<description>
-		We are Pixelnest. We craft games and apps.
-	</description>
+  <description>
+    We are Pixelnest. We craft games and apps.
+  </description>
 
-	<histories>
-		<history>
-			<text>
-				Pixelnest Studio is Damien Mayance and Matthieu Oger. The company was founded in 2014 in Rennes, France.
-			</text>
-		</history>
-	</histories>
+  <histories>
+    <history>
+      <text>
+        Pixelnest Studio is Damien Mayance and Matthieu Oger. The company was founded in 2014 in Rennes, France.
+      </text>
+    </history>
+  </histories>
 
-	<trailers>
-		<trailer>
-			<name>Steredenn - Launch Trailer</name>
-			<youtube>EtXajayBLzw</youtube>
-		</trailer>
-		<trailer>
-			<name>Steredenn - Early Access Trailer</name>
-			<youtube>EtyQMcc19xY</youtube>
-		</trailer>
-		<trailer>
-			<name>Shmupfest — Trailer</name>
-			<youtube>N4cRAA7Q-p4</youtube>
-		</trailer>
-		<trailer>
-			<name>Rampaint — Early gameplay footage</name>
-			<youtube>Wee-F32Zcp0</youtube>
-		</trailer>
-		<trailer>
-			<name>George le Pirate — Trailer/Teaser</name>
-			<youtube>RYJZvZfvyZY</youtube>
-		</trailer>
-	</trailers>
+  <trailers>
+    <trailer>
+      <name>Steredenn - Launch Trailer</name>
+      <youtube>EtXajayBLzw</youtube>
+    </trailer>
+    <trailer>
+      <name>Steredenn - Early Access Trailer</name>
+      <youtube>EtyQMcc19xY</youtube>
+    </trailer>
+    <trailer>
+      <name>Shmupfest — Trailer</name>
+      <youtube>N4cRAA7Q-p4</youtube>
+    </trailer>
+    <trailer>
+      <name>Rampaint — Early gameplay footage</name>
+      <youtube>Wee-F32Zcp0</youtube>
+    </trailer>
+    <trailer>
+      <name>George le Pirate — Trailer/Teaser</name>
+      <youtube>RYJZvZfvyZY</youtube>
+    </trailer>
+  </trailers>
 
-	<quotes>
-		<quote>
-			<description>Your tutorial on Unity 2D game is one of the most awesome tutorial I've ever read. Keep it up guys :)</description>
-			<name>Jai Tiwari</name>
-			<website>Twitter</website>
-			<link>https://twitter.com/tweetjai/status/440215244032315392</link>
-		</quote>
-		<quote>
-			<description>A shout-out to Pixelnest for making a no-nonsense Unity2D tutorial that comes in text form! My heroes!</description>
-			<name>Caitlin</name>
-			<website>Twitter</website>
-			<link>https://twitter.com/CritterBucket/status/420330166456287232</link>
-		</quote>
-	</quotes>
+  <quotes>
+    <quote>
+      <description>Your tutorial on Unity 2D game is one of the most awesome tutorial I've ever read. Keep it up guys :)</description>
+      <name>Jai Tiwari</name>
+      <website>Twitter</website>
+      <link>https://twitter.com/tweetjai/status/440215244032315392</link>
+    </quote>
+    <quote>
+      <description>A shout-out to Pixelnest for making a no-nonsense Unity2D tutorial that comes in text form! My heroes!</description>
+      <name>Caitlin</name>
+      <website>Twitter</website>
+      <link>https://twitter.com/CritterBucket/status/420330166456287232</link>
+    </quote>
+  </quotes>
 
-	<additionals>
-		<additional>
-			<title>Pixelnest Journal</title>
-			<description>RSS feed at</description>
-			<link>https://feedpress.me/pixelnest/</link>
-		</additional>
-		<additional>
-			<title>Damien Mayance on Twitter</title>
-			<description>Personal tweets by Damien (@valryon) at</description>
-			<link>https://twitter.com/valryon/</link>
-		</additional>
-		<additional>
-			<title>Damien Mayance's Blog</title>
-			<description>Damien at</description>
-			<link>http://dmayance.com/</link>
-		</additional>
-		<additional>
-			<title>Matthieu Oger on Twitter</title>
-			<description>Personal tweets by Matthieu (@solarsailer) at</description>
-			<link>https://twitter.com/solarsailer/</link>
-		</additional>
-		<additional>
-			<title>Matthieu Oger's Blog</title>
-			<description>Matthieu at</description>
-			<link>http://solarsailer.net/</link>
-		</additional>
-	</additionals>
+  <additionals>
+    <additional>
+      <title>Pixelnest Journal</title>
+      <description>RSS feed at</description>
+      <link>https://feedpress.me/pixelnest/</link>
+    </additional>
+    <additional>
+      <title>Damien Mayance on Twitter</title>
+      <description>Personal tweets by Damien (@valryon) at</description>
+      <link>https://twitter.com/valryon/</link>
+    </additional>
+    <additional>
+      <title>Damien Mayance's Blog</title>
+      <description>Damien at</description>
+      <link>http://dmayance.com/</link>
+    </additional>
+    <additional>
+      <title>Matthieu Oger on Twitter</title>
+      <description>Personal tweets by Matthieu (@solarsailer) at</description>
+      <link>https://twitter.com/solarsailer/</link>
+    </additional>
+    <additional>
+      <title>Matthieu Oger's Blog</title>
+      <description>Matthieu at</description>
+      <link>http://solarsailer.net/</link>
+    </additional>
+  </additionals>
 
-	<credits>
-		<credit>
-			<person>Damien Mayance</person>
-			<website>http://dmayance.com/</website>
-			<role>Founder, Developer, Pixelnest</role>
-		</credit>
-		<credit>
-			<person>Matthieu Oger</person>
-			<website>http://solarsailer.net/</website>
-			<role>Founder, Developer, Designer, Pixelnest</role>
-		</credit>
-		<credit>
-			<person>Marion Chrétien</person>
-			<website>http://marion-chretien.fr/</website>
-			<role>Artist, Collaborator</role>
-		</credit>
-		<credit>
-			<person>Simon Coroller</person>
-			<website>http://pluspixels.tumblr.com/</website>
-			<role>Artist, Collaborator</role>
-		</credit>
-	</credits>
+  <credits>
+    <credit>
+      <person>Damien Mayance</person>
+      <website>http://dmayance.com/</website>
+      <role>Founder, Developer, Pixelnest</role>
+    </credit>
+    <credit>
+      <person>Matthieu Oger</person>
+      <website>http://solarsailer.net/</website>
+      <role>Founder, Developer, Designer, Pixelnest</role>
+    </credit>
+    <credit>
+      <person>Marion Chrétien</person>
+      <website>http://marion-chretien.fr/</website>
+      <role>Artist, Collaborator</role>
+    </credit>
+    <credit>
+      <person>Simon Coroller</person>
+      <website>http://pluspixels.tumblr.com/</website>
+      <role>Artist, Collaborator</role>
+    </credit>
+  </credits>
 
-	<contacts>
-		<contact>
-			<name>Inquiries</name>
-			<mail>site@pixelnest.io</mail>
-		</contact>
-		<contact>
-			<name>Twitter</name>
-			<link>https://twitter.com/pixelnest/</link>
-		</contact>
-		<contact>
-			<name>Facebook</name>
-			<link>https://facebook.com/pixelneststudio/</link>
-		</contact>
-		<contact>
-			<name>Web</name>
-			<link>http://pixelnest.io/</link>
-		</contact>
-	</contacts>
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>site@pixelnest.io</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/pixelnest/</link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://facebook.com/pixelneststudio/</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>http://pixelnest.io/</link>
+    </contact>
+  </contacts>
 </company>
