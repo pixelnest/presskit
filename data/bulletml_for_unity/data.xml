@@ -1,19 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
-<game>
+<product>
 	<title>BulletML For Unity</title>
-	<release-date>9 April, 2014</release-date>
-	<website>pixelnest.io/work/bulletml-for-unity</website>
-	<press-can-request-copy>FALSE</press-can-request-copy>
+	<website>http://pixelnest.io/work/bulletml-for-unity/</website>
+
+	<release-dates>
+		<release-date>9 April, 2014</release-date>
+	</release-dates>
+
+	<redirect-from>/bulletml_for_unity.html</redirect-from>
 
 	<platforms>
 		<platform>
 			<name>Windows, Mac (Unity3D)</name>
-			<link>bulletml-for-unity.pixelnest.io</link>
+			<link>http://bulletml-for-unity.pixelnest.io/</link>
 		</platform>
 		<platform>
 			<name>Demo (web)</name>
-			<link>pixelnest.io/work/bulletml-for-unity/demo</link>
+			<link>http://pixelnest.io/work/bulletml-for-unity/demo</link>
 		</platform>
 	</platforms>
 
@@ -65,17 +68,15 @@
 			<description>Available only on</description>
 			<link>https://www.assetstore.unity3d.com/en/#!/content/16206</link>
 		</additional>
-
 		<additional>
-			<title>Supermassive</title>
+			<title>Steredenn</title>
 			<description>A game made with BulletML for Unity. More on</description>
-			<link>supermassive.pixelnest.io/index.html</link>
+			<link>http://steredenn.pixelnest.io/</link>
 		</additional>
-
 		<additional>
 			<title>Shmupfest</title>
 			<description>A game made with BulletML for Unity. More on</description>
-			<link>pixelnest.io/work/shmupfest</link>
+			<link>http://pixelnest.io/work/shmupfest/</link>
 		</additional>
 	</additionals>
 
@@ -89,4 +90,4 @@
 			<role>Developer, Pixelnest Studio</role>
 		</credit>
 	</credits>
-</game>
+</product>

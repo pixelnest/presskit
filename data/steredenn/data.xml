@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
-<game>
+<product>
 	<title>Steredenn</title>
-	<release-date>October, 1st - 2015 (PC/Mac/Linux) April, 1st - 2016 (Xbox One) June, 28th - 2016 (PlayStation 4)</release-date>
-	<website>steredenn.pixelnest.io</website>
-	<press-can-request-copy>FALSE</press-can-request-copy>
+	<website>http://steredenn.pixelnest.io/</website>
+
+	<release-dates>
+		<release-date>October, 1st - 2015 (PC/Mac/Linux)</release-date>
+		<release-date>April, 1st - 2016 (Xbox One)</release-date>
+		<release-date>June, 28th - 2016 (PlayStation 4)</release-date>
+	</release-dates>
+
+	<redirect-from>/steredenn.html</redirect-from>
 
 	<platforms>
 		<platform>
@@ -83,14 +88,12 @@
 			<website>HardcoreGamer</website>
 			<link>http://www.hardcoregamer.com/2015/05/19/shooting-through-the-horizontally-scrolling-2d-starscape-of-steredenn/149336/</link>
 		</quote>
-
 		<quote>
 			<description>Steredenn is an addicting early-access shmup with gorgeous retro environments and fast-paced never-ending combat set to fun, high energy music that will have you wanting to “try one more time” over and over again!</description>
 			<name>Heather Tollis</name>
 			<website>IndieGamers UK</website>
 			<link>http://indiegamers.co.uk/archive/2015/05/18/lets-take-a-look-at-steredenn/</link>
 		</quote>
-
 		<quote>
 			<description>Overall, Steredenn is a unique twist on a long-lost arcade classic, the side-scrolling shmup of ye olden times. It throws in some creative use of procedural generation and bombastic soundtrack and doesn’t shy away from offering the player repeat playthroughs.</description>
 			<name>Graham</name>
@@ -149,4 +152,4 @@
 			<role>Musician, Collaborator</role>
 		</credit>
 	</credits>
-</game>
+</product>

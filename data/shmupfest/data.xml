@@ -1,21 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
-<game>
+<product>
 	<title>Shmupfest</title>
-	<release-date>2 May, 2014</release-date>
-	<website>pixelnest.io/shmupfest</website>
-	<press-can-request-copy>FALSE</press-can-request-copy>
+	<website>http://pixelnest.io/shmupfest</website>
+
+	<release-dates>
+		<release-date>2 May, 2014</release-date>
+	</release-dates>
+
+	<redirect-from>/shmupfest.html</redirect-from>
 
 	<platforms>
 		<platform>
 			<name>Windows, Mac, Linux &#38; Web</name>
-			<link>pixelnest.io/shmupfest/play</link>
+			<link>http://pixelnest.io/shmupfest/play</link>
 		</platform>
 	</platforms>
 
 	<prices>
 		<price>
-			<currency></currency>
 			<value>Free</value>
 		</price>
 	</prices>
@@ -65,7 +67,7 @@
 		<additional>
 			<title>Stunfest</title>
 			<description>Learn more about the festival on</description>
-			<link>www.stunfest.fr/english-informations</link>
+			<link>http://www.stunfest.fr/english-informations</link>
 		</additional>
 
 	</additionals>
@@ -84,4 +86,4 @@
 			<role>More details in the game's credits</role>
 		</credit>
 	</credits>
-</game>
+</product>

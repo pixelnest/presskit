@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<game>
+<company>
 	<title>Pixelnest Studio</title>
 	<founding-date>February 6, 2014</founding-date>
 	<website>http://pixelnest.io/</website>
 	<based-in>Rennes, France</based-in>
 
 	<press-contact>contact@pixelnest.io</press-contact>
+
 	<phone>N/A</phone>
+
 	<address>
 		<line>81, Mail François Mitterrand</line>
 		<line>35000 Rennes</line>
 		<line>France</line>
 	</address>
 
+	<analytics>UA-40226469-5</analytics>
+
 	<socials>
 		<social>
 			<name>twitter.com/pixelnest/</name>
-			<link>twitter.com/pixelnest/</link>
+			<link>https://twitter.com/pixelnest/</link>
 		</social>
 		<social>
 			<name>facebook.com/pixelneststudio/</name>
-			<link>facebook.com/pixelneststudio/</link>
+			<link>https://facebook.com/pixelneststudio/</link>
 		</social>
 	</socials>
 
@@ -59,29 +63,6 @@
 		</trailer>
 	</trailers>
 
-	<!--
-
-	<awards>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-	</awards>
-
-	-->
-
 	<quotes>
 		<quote>
 			<description>Your tutorial on Unity 2D game is one of the most awesome tutorial I've ever read. Keep it up guys :)</description>
@@ -89,7 +70,6 @@
 			<website>Twitter</website>
 			<link>https://twitter.com/tweetjai/status/440215244032315392</link>
 		</quote>
-
 		<quote>
 			<description>A shout-out to Pixelnest for making a no-nonsense Unity2D tutorial that comes in text form! My heroes!</description>
 			<name>Caitlin</name>
@@ -98,68 +78,53 @@
 		</quote>
 	</quotes>
 
-	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
-	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
-																			 	ask (permission on case-per-case basis),
-																			 	non-commercial (no monetization allowed),
-																			 	monetize (full permission) -->
-
-	<analytics>UA-40226469-5</analytics>
-
 	<additionals>
 		<additional>
 			<title>Pixelnest Journal</title>
 			<description>RSS feed at</description>
-			<link>feedpress.me/pixelnest</link>
+			<link>https://feedpress.me/pixelnest/</link>
 		</additional>
-
 		<additional>
 			<title>Damien Mayance on Twitter</title>
 			<description>Personal tweets by Damien (@valryon) at</description>
-			<link>twitter.com/valryon</link>
+			<link>https://twitter.com/valryon/</link>
 		</additional>
-
 		<additional>
 			<title>Damien Mayance's Blog</title>
 			<description>Damien at</description>
-			<link>dmayance.com</link>
+			<link>http://dmayance.com/</link>
 		</additional>
-
 		<additional>
 			<title>Matthieu Oger on Twitter</title>
 			<description>Personal tweets by Matthieu (@solarsailer) at</description>
-			<link>twitter.com/solarsailer</link>
+			<link>https://twitter.com/solarsailer/</link>
 		</additional>
-
 		<additional>
 			<title>Matthieu Oger's Blog</title>
 			<description>Matthieu at</description>
-			<link>solarsailer.net</link>
+			<link>http://solarsailer.net/</link>
 		</additional>
 	</additionals>
 
 	<credits>
-		<!-- team -->
 		<credit>
 			<person>Damien Mayance</person>
-			<website>dmayance.com</website>
+			<website>http://dmayance.com/</website>
 			<role>Founder, Developer, Pixelnest</role>
 		</credit>
 		<credit>
 			<person>Matthieu Oger</person>
-			<website>solarsailer.net</website>
+			<website>http://solarsailer.net/</website>
 			<role>Founder, Developer, Designer, Pixelnest</role>
 		</credit>
-
-		<!-- collaborators -->
 		<credit>
 			<person>Marion Chrétien</person>
-			<website>marion-chretien.fr</website>
+			<website>http://marion-chretien.fr/</website>
 			<role>Artist, Collaborator</role>
 		</credit>
 		<credit>
 			<person>Simon Coroller</person>
-			<website>pluspixels.tumblr.com</website>
+			<website>http://pluspixels.tumblr.com/</website>
 			<role>Artist, Collaborator</role>
 		</credit>
 	</credits>
@@ -171,15 +136,15 @@
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>twitter.com/pixelnest/</link>
+			<link>https://twitter.com/pixelnest/</link>
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>facebook.com/pixelneststudio/</link>
+			<link>https://facebook.com/pixelneststudio/</link>
 		</contact>
 		<contact>
 			<name>Web</name>
-			<link>pixelnest.io</link>
+			<link>http://pixelnest.io/</link>
 		</contact>
 	</contacts>
-</game>
+</company>
