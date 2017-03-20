@@ -1296,7 +1296,7 @@ mkdirp@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.3.0.tgz#1bbf5ab1ba827af23575143490426455f481fe1e"
 
-"mkdirp@>=0.5 0", mkdirp@~0.5.1:
+"mkdirp@>=0.5 0", mkdirp@^0.5.1, mkdirp@~0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
   dependencies:
@@ -1529,9 +1529,9 @@ preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
 
-presskit@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/presskit/-/presskit-0.3.0.tgz#4984b2925ea37455bd020f250aa820d3159ea381"
+presskit@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/presskit/-/presskit-0.4.0.tgz#4c1dac03f85847bd619e11e6dd8ff428ccd0bf9a"
   dependencies:
     archiver "^1.3.0"
     browser-sync "^2.18.5"
@@ -1541,6 +1541,7 @@ presskit@^0.3.0:
     commander "^2.9.0"
     handlebars "^4.0.6"
     lodash "^4.17.2"
+    mkdirp "^0.5.1"
     rimraf "^2.6.1"
     xml2js "^0.4.17"
 
