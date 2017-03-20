@@ -86,4 +86,23 @@
       <role>Developer, Pixelnest Studio</role>
     </credit>
   </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>bulletml-unity@pixelnest.io</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/pixelnest/</link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://facebook.com/pixelneststudio/</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>http://pixelnest.io/</link>
+    </contact>
+  </contacts>
 </product>
