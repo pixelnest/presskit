@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "presskit build --watch data",
-    "publish": "presskit build data && gh-pages --dist build --branch build"
+    "publish": "rm -rf build && presskit build data && gh-pages --dist build --branch build"
   },
   "dependencies": {
     "gh-pages": "^0.12.0",
