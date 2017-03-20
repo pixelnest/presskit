@@ -2,7 +2,14 @@
 
 ## Publish
 
-TODO
+Use:
+
+```
+npm run publish
+
+# Or:
+yarn run publish
+```
 
 ## Archives
 
