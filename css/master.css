@@ -142,6 +142,10 @@ body {
     min-width: 25%;
   }
 
+  .page-wrapper {
+    max-width: 75%;
+  }
+
   .factsheet {
     min-width: 33%;
   }
@@ -171,6 +175,14 @@ a:focus {
 a:active,
 a:hover {
   outline: none;
+}
+
+/* ---------------------------------------------------------- *\
+ * Components - Page Header.
+\* ---------------------------------------------------------- */
+
+.page-header img {
+  display: block;
 }
 
 /* ---------------------------------------------------------- *\
