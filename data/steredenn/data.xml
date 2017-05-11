@@ -27,7 +27,7 @@
     </platform>
     <platform>
       <name>iOS (iPhone/iPad)</name>
-      <link>http://steredenn.pixelnest.io/</link>
+      <link>https://itunes.apple.com/app/steredenn/id916957220</link>
     </platform>
   </platforms>
 
@@ -76,7 +76,7 @@
 
   <trailers>
     <trailer>
-      <name>Steredenn - Launch Trailer</name>
+      <name>Steredenn - Trailer</name>
       <youtube>EtXajayBLzw</youtube>
     </trailer>
     <trailer>
@@ -120,24 +120,14 @@
       <link>https://www.keymailer.co/g/games/16588</link>
     </additional>
     <additional>
-      <title>Steam Store Page</title>
-      <description>Available on Steam on</description>
-      <link>http://store.steampowered.com/app/347160</link>
-    </additional>
-    <additional>
-      <title>Itch.io Page</title>
-      <description>Available on Itch.io on</description>
-      <link>http://pixelnest.itch.io/steredenn</link>
+      <title>Soundtrack</title>
+      <description>Available on</description>
+      <link>https://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
     </additional>
     <additional>
       <title>Steredenn Devblog</title>
       <description>Follow the game development on</description>
       <link>http://steredenn-game.tumblr.com/post/85709741000/steredenn</link>
-    </additional>
-    <additional>
-      <title>Soundtrack</title>
-      <description>Available on</description>
-      <link>https://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
     </additional>
   </additionals>
 
