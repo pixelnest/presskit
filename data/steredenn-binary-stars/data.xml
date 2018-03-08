@@ -135,6 +135,16 @@
 
   <additionals>
     <additional>
+      <title>Binary Stars FAQ</title>
+      <description>Read the exhaustive FAQ on</description>
+      <link>http://steredenn.pixelnest.io/faq/</link>
+    </additional>
+    <additional>
+      <title>Binary Stars Changelog</title>
+      <description>Read the full changelog on</description>
+      <link>http://steredenn.pixelnest.io/updates/</link>
+    </additional>
+    <additional>
       <title>Steredenn original presskit</title>
       <description>View the original press page on</description>
       <link>http://pixelnest.io/presskit/steredenn/</link>
