@@ -8,12 +8,13 @@
     <release-date>TBA (Steam)</release-date>
     <release-date>TBA (Xbox One)</release-date>
     <release-date>TBA (PlayStation 4)</release-date>
+    <release-date>TBA (iOS)</release-date>
   </release-dates>
 
   <platforms>
     <platform>
       <name>Nintendo Switch</name>
-      <link>#</link>
+      <link>https://www.nintendo.com/games/detail/steredenn-binary-stars-switch</link>
     </platform>
     <platform>
       <name>Others later (TBA)</name>
@@ -70,6 +71,10 @@
   </features>
 
   <trailers>
+    <trailer>
+      <name>Steredenn: Binary Stars - Trailer</name>
+      <youtube>iBG9yqcXB-4</youtube>
+    </trailer>
     <trailer>
       <name>Steredenn: Binary Stars - Teaser</name>
       <youtube>pziwBxhTpAs</youtube>
