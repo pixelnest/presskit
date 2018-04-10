@@ -5,7 +5,7 @@
 
   <release-dates>
     <release-date>March, 8th - 2018 (Nintendo Switch)</release-date>
-    <release-date>TBA (Steam)</release-date>
+    <release-date>April, 10th - 2018 (Steam)</release-date>
     <release-date>TBA (Xbox One)</release-date>
     <release-date>TBA (PlayStation 4)</release-date>
     <release-date>TBA (iOS)</release-date>
@@ -17,12 +17,24 @@
       <link>https://www.nintendo.com/games/detail/steredenn-binary-stars-switch</link>
     </platform>
     <platform>
+      <name>Steam</name>
+      <link>http://store.steampowered.com/app/835730/Steredenn_Binary_Stars/</link>
+    </platform>
+    <platform>
       <name>Others later (TBA)</name>
       <link>#</link>
     </platform>
   </platforms>
 
   <prices>
+    <price>
+      <currency>Free</currency>
+      <value>DLC</value>
+    </price>
+    <price>
+      <currency>Base</currency>
+      <value>game:</value>
+    </price>
     <price>
       <currency>USD</currency>
       <value>12.99</value>
@@ -86,9 +98,23 @@
       <description>Best Shoot'em-up 2015</description>
       <info>jeuxvideo.com</info>
     </award>
+    <award>
+      <description>Game of the Week</description>
+      <info>TouchArcade</info>
+    </award>
+    <award>
+      <description>Gold Award</description>
+      <info>Pocket Gamer</info>
+    </award>
   </awards>
 
   <quotes>
+    <quote>
+      <description>If you’re looking for a tightly made arcade game that can be played both in short bursts and for hours on end, look no further than this - 9/10</description>
+      <name>Mitch Vogel</name>
+      <website>NintendoLife</website>
+      <link>http://www.nintendolife.com/reviews/switch-eshop/steredenn_binary_stars</link>
+    </quote>
     <quote>
       <description>Devilishly addictive - 10/10</description>
       <name>Alexis Gauthier Tery</name>
