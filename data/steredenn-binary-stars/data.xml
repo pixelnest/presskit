@@ -6,7 +6,7 @@
   <release-dates>
     <release-date>March, 8th - 2018 (Nintendo Switch)</release-date>
     <release-date>April, 10th - 2018 (Steam)</release-date>
-    <release-date>TBA (Xbox One)</release-date>
+    <release-date>April, 10th - 2018 (Xbox One)</release-date>
     <release-date>TBA (PlayStation 4)</release-date>
     <release-date>TBA (iOS)</release-date>
   </release-dates>
@@ -19,6 +19,10 @@
     <platform>
       <name>Steam</name>
       <link>http://store.steampowered.com/app/835730/Steredenn_Binary_Stars/</link>
+    </platform>
+    <platform>
+      <name>Xbox One</name>
+      <link>http://steredenn.pixelnest.io/</link>
     </platform>
     <platform>
       <name>Others later (TBA)</name>
