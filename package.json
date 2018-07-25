@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "presskit build -L --watch data",
-    "deploy": "presskit build -DL data && cp -r redirections/* build/ && gh-pages --dist build --branch build"
+    "deploy": "presskit build -B /presskit/ -DL data && cp -r redirections/* build/ && gh-pages --dist build --branch build"
   },
   "dependencies": {
     "gh-pages": "^0.12.0",
