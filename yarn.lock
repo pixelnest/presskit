@@ -1529,9 +1529,9 @@ preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
 
-presskit@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/presskit/-/presskit-0.7.0.tgz#c6f5ac8ec266a40776fbda2a93a871e97354ee91"
+presskit@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/presskit/-/presskit-0.7.1.tgz#5a60be086c554cf0db119e8b707f3edbc750c7fc"
   dependencies:
     archiver "^1.3.0"
     browser-sync "^2.18.5"
