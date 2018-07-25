@@ -19,12 +19,16 @@
 
   <socials>
     <social>
-      <name>twitter.com/pixelnest/</name>
+      <name>Twitter (@pixelnest)</name>
       <link>https://twitter.com/pixelnest/</link>
     </social>
     <social>
-      <name>facebook.com/pixelneststudio/</name>
+      <name>Facebook (@pixelneststudio)</name>
       <link>https://facebook.com/pixelneststudio/</link>
+    </social>
+    <social>
+      <name>Instagram (@pixelneststudio)</name>
+      <link>https://instagram.com/pixelneststudio/</link>
     </social>
   </socials>
 

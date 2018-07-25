@@ -12,6 +12,17 @@
 
   <redirect-from>/steredenn.html</redirect-from>
 
+  <relations>
+    <relation>
+      <type>
+        DLC
+      </type>
+      <product>
+        Steredenn: Binary Stars
+      </product>
+    </relation>
+  </relations>
+
   <platforms>
     <platform>
       <name>Steam (PC/Mac/Linux)</name>
