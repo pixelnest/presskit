@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "gh-pages": "^0.12.0",
-    "presskit": "^0.11.0"
+    "presskit": "^0.12.1"
   },
   "devDependencies": {}
 }
