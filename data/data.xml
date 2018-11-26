@@ -92,11 +92,6 @@
 
   <additionals>
     <additional>
-      <title>Pixelnest Journal</title>
-      <description>RSS feed at</description>
-      <link>https://feedpress.me/pixelnest/</link>
-    </additional>
-    <additional>
       <title>Damien Mayance on Twitter</title>
       <description>Personal tweets by Damien (@valryon) at</description>
       <link>https://twitter.com/valryon/</link>
@@ -144,7 +139,7 @@
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>site@pixelnest.io</mail>
+      <mail>contact@pixelnest.io</mail>
     </contact>
     <contact>
       <name>Twitter</name>
