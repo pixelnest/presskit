@@ -8,7 +8,7 @@
     <release-date>April, 10th - 2018 (Steam)</release-date>
     <release-date>April, 10th - 2018 (Xbox One)</release-date>
     <release-date>June, 20th - 2018 (PlayStation 4)</release-date>
-    <release-date>January TBA - 2019 (iOS)</release-date>
+    <release-date>January, 15th - 2019 (iOS - iPhone/iPad)</release-date>
   </release-dates>
 
   <platforms>
@@ -28,6 +28,10 @@
       <name>PlayStation 4</name>
       <link>https://store.playstation.com/?resolve=EP1302-CUSA04998_00-STEREDENN0000PXN</link>
     </platform>
+    <platform>
+      <name>iOS (iPhone/iPad)</name>
+      <link>https://itunes.apple.com/app/steredenn/id916957220</link>
+    </platform>
   </platforms>
 
   <prices>
@@ -46,6 +50,14 @@
     <price>
       <currency>EUR</currency>
       <value>12.99</value>
+    </price>
+    <price>
+      <currency>(for iOS) USD</currency>
+      <value>3.99</value>
+    </price>
+    <price>
+      <currency>(for iOS) EUR</currency>
+      <value>4.49</value>
     </price>
   </prices>
 
@@ -180,11 +192,6 @@
       <link>http://pixelnest.io/presskit/steredenn/</link>
     </additional>
     <additional>
-      <title>Request a press copy</title>
-      <description>Click on</description>
-      <link>https://www.keymailer.co/g/games/16588</link>
-    </additional>
-    <additional>
       <title>Soundtrack</title>
       <description>Available on</description>
       <link>https://zandernoriega.bandcamp.com/album/steredenn-original-soundtrack</link>
@@ -194,11 +201,11 @@
   <credits>
     <credit>
       <person>Damien Mayance</person>
-      <role>Developer, Pixelnest Studio</role>
+      <role>Lead Developer, Pixelnest Studio</role>
     </credit>
     <credit>
       <person>Matthieu Oger</person>
-      <role>Project lead, Pixelnest Studio</role>
+      <role>Product Manager, Pixelnest Studio</role>
     </credit>
     <credit>
       <person>Simon Coroller</person>
