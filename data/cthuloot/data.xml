@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>CTHULOOT</title>
+  <website>https://cthuloot.pixelnest.io/</website>
+
+  <release-dates>
+    <release-date>April, 14th - 2025 (Steam)</release-date>
+    <release-date>May, 15th - 2025 (Nintendo Switch)</release-date>
+    <release-date>April, 21st - 2026 (PlayStation 5)</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/2283410/Cthuloot/</link>
+    </platform>
+    <platform>
+      <name>Nintendo Switch</name>
+      <link>https://www.nintendo.com/us/store/products/cthuloot-switch/</link>
+    </platform>
+    <platform>
+      <name>PlayStation 5</name>
+      <link>https://store.playstation.com/en-us/concept/10013114</link>
+    </platform>
+  </platforms>
+
+  <description>
+    CTHULOOT is a cooperative local multiplayer party game where players loot mysterious locations on behalf of Cthulhu. Game is playable for 1-4 players.
+  </description>
+
+  <histories>
+    <history>
+      <header>
+        The Great Elder needs you
+      </header>
+      <text>
+        Famous thieves have been requested by the Great Elder to steal all the precious relics from its (cheap) rivals.
+      </text>
+    </history>
+    <history>
+      <header>
+        Cooperate... or not
+      </header>
+      <text>
+        Players have a limited movement set and they will need to cooperate to exchange items or solve puzzles. A little competition between players is in place to know who's the best looter of the group and who's the most useless one.
+      </text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Play as goofy thieves requested by the Great Elder to steal all the precious relics from its (cheap) rivals.</feature>
+    <feature>Team-up with your friends: up to 4 players in local multiplayer.</feature>
+    <feature>Unlock special watches to customize your gameplay.</feature>
+    <feature>Follow the campaign: 3 chapters, 14 levels full of surprises, and play it entirely with your crew.</feature>
+    <feature>A new family-friendly take on the Lovecraft universe.</feature>
+    <feature>GENRE: Local multiplayer, Coop, Arcade.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>CTHULOOT - Trailer</name>
+      <youtube>tEXus_A-tjk</youtube>
+    </trailer>
+  </trailers>
+
+  <additionals>
+    <additional>
+      <title>Full asset pack</title>
+      <description>Logos, keyarts, screenshots, GIFs and social media images on</description>
+      <link>https://www.dropbox.com/scl/fo/qf6nz04m65uvvjm57ikb3/AJjDN08VirBoaUOEZ2j99uU?rlkey=blbvkx4tldcxz037vy5ngm7z4&amp;dl=0</link>
+    </additional>
+    <additional>
+      <title>Press release (May 15th, 2025)</title>
+      <description>Read it on</description>
+      <link>https://docs.google.com/document/d/17-vr3c19u_BHgrcsBgeKG1hVOA-RsvIzTFLwaIgfs0E/edit?tab=t.0</link>
+    </additional>
+    <additional>
+      <title>Discord</title>
+      <description>Join the community on</description>
+      <link>https://discord.gg/FwUwUchAhw</link>
+    </additional>
+    <additional>
+      <title>Reddit</title>
+      <description>Join the subreddit on</description>
+      <link>https://www.reddit.com/r/cthuloot/</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Pixelnest Studio</person>
+      <website>http://pixelnest.io/</website>
+      <role>Developer</role>
+    </credit>
+    <credit>
+      <person>TyGames</person>
+      <role>Publisher</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>cthuloot@pixelnest.io</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/cthuloot</link>
+    </contact>
+    <contact>
+      <name>Bluesky</name>
+      <link>https://bsky.app/profile/pixelnest.io</link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/pixelneststudio</link>
+    </contact>
+    <contact>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/pixelneststudio/</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>https://cthuloot.pixelnest.io/</link>
+    </contact>
+  </contacts>
+</product>

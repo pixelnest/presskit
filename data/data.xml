@@ -19,16 +19,8 @@
 
   <socials>
     <social>
-      <name>Twitter (@pixelnest)</name>
-      <link>https://twitter.com/pixelnest/</link>
-    </social>
-    <social>
-      <name>Facebook (@pixelneststudio)</name>
-      <link>https://facebook.com/pixelneststudio/</link>
-    </social>
-    <social>
-      <name>Instagram (@pixelneststudio)</name>
-      <link>https://instagram.com/pixelneststudio/</link>
+      <name>Bluesky (@pixelnest.io)</name>
+      <link>https://bsky.app/profile/pixelnest.io</link>
     </social>
   </socials>
 
@@ -39,100 +31,45 @@
   <histories>
     <history>
       <text>
-        Pixelnest Studio is Damien Mayance and Matthieu Oger. The company was founded in 2014 in Rennes, France.
+        Pixelnest Studio is Damien Mayance and Eddy Margueron. The company was founded in 2014 in Rennes, France.
       </text>
     </history>
   </histories>
 
   <trailers>
     <trailer>
+      <name>CTHULOOT - Trailer</name>
+      <youtube>tEXus_A-tjk</youtube>
+    </trailer>
+    <trailer>
+      <name>Cosmo Cargo</name>
+      <youtube>oHIggeyL1Vw</youtube>
+    </trailer>
+    <trailer>
+      <name>Flipon - Trailer</name>
+      <youtube>ry4ex4_T-oU</youtube>
+    </trailer>
+    <trailer>
       <name>Steredenn: Binary Stars - Trailer</name>
       <youtube>iBG9yqcXB-4</youtube>
     </trailer>
-    <trailer>
-      <name>Steredenn: Binary Stars - Teaser</name>
-      <youtube>pziwBxhTpAs</youtube>
-    </trailer>
-    <trailer>
-      <name>Steredenn - Launch Trailer</name>
-      <youtube>EtXajayBLzw</youtube>
-    </trailer>
-    <trailer>
-      <name>Steredenn - Early Access Trailer</name>
-      <youtube>EtyQMcc19xY</youtube>
-    </trailer>
-    <trailer>
-      <name>Shmupfest — Trailer</name>
-      <youtube>N4cRAA7Q-p4</youtube>
-    </trailer>
-    <trailer>
-      <name>Rampaint — Early gameplay footage</name>
-      <youtube>Wee-F32Zcp0</youtube>
-    </trailer>
-    <trailer>
-      <name>George le Pirate — Trailer/Teaser</name>
-      <youtube>RYJZvZfvyZY</youtube>
-    </trailer>
   </trailers>
-
-  <quotes>
-    <quote>
-      <description>Your tutorial on Unity 2D game is one of the most awesome tutorial I've ever read. Keep it up guys :)</description>
-      <name>Jai Tiwari</name>
-      <website>Twitter</website>
-      <link>https://twitter.com/tweetjai/status/440215244032315392</link>
-    </quote>
-    <quote>
-      <description>A shout-out to Pixelnest for making a no-nonsense Unity2D tutorial that comes in text form! My heroes!</description>
-      <name>Caitlin</name>
-      <website>Twitter</website>
-      <link>https://twitter.com/CritterBucket/status/420330166456287232</link>
-    </quote>
-  </quotes>
-
-  <additionals>
-    <additional>
-      <title>Damien Mayance on Twitter</title>
-      <description>Personal tweets by Damien (@valryon) at</description>
-      <link>https://twitter.com/valryon/</link>
-    </additional>
-    <additional>
-      <title>Damien Mayance's Blog</title>
-      <description>Damien at</description>
-      <link>https://dmayance.com/</link>
-    </additional>
-    <additional>
-      <title>Matthieu Oger on Twitter</title>
-      <description>Personal tweets by Matthieu (@solarsailer) at</description>
-      <link>https://twitter.com/solarsailer/</link>
-    </additional>
-    <additional>
-      <title>Matthieu Oger's Blog</title>
-      <description>Matthieu at</description>
-      <link>https://matthieuoger.com/</link>
-    </additional>
-  </additionals>
 
   <credits>
     <credit>
       <person>Damien Mayance</person>
       <website>https://dmayance.com/</website>
-      <role>Founder, Developer, Pixelnest</role>
+      <role>Founder, Developer</role>
+    </credit>
+    <credit>
+      <person>Eddy Margueron</person>
+      <website>https://www.artstation.com/skia</website>
+      <role>Art director, 3D, tech art, VFX</role>
     </credit>
     <credit>
       <person>Matthieu Oger</person>
       <website>https://matthieuoger.com/</website>
-      <role>Founder, Developer, Designer, Pixelnest</role>
-    </credit>
-    <credit>
-      <person>Marion Chrétien</person>
-      <website>http://marion-chretien.fr/</website>
-      <role>Artist, Collaborator</role>
-    </credit>
-    <credit>
-      <person>Simon Coroller</person>
-      <website>http://pluspixels.tumblr.com/</website>
-      <role>Artist, Collaborator</role>
+      <role>Founder (2014-2022), Developer, Designer</role>
     </credit>
   </credits>
 
@@ -140,14 +77,6 @@
     <contact>
       <name>Inquiries</name>
       <mail>contact@pixelnest.io</mail>
-    </contact>
-    <contact>
-      <name>Twitter</name>
-      <link>https://twitter.com/pixelnest/</link>
-    </contact>
-    <contact>
-      <name>Facebook</name>
-      <link>https://facebook.com/pixelneststudio/</link>
     </contact>
     <contact>
       <name>Web</name>

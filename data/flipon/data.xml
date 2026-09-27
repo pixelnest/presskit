@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Flipon</title>
+  <website>https://www.flipon.net/</website>
+
+  <release-dates>
+    <release-date>October, 8th - 2020 (Steam)</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>Steam (PC/Mac/Linux)</name>
+      <link>https://store.steampowered.com/app/1285020/Flipon/</link>
+    </platform>
+    <platform>
+      <name>Nintendo Switch</name>
+      <link>https://www.nintendo.com/games/detail/flipon-switch/</link>
+    </platform>
+    <platform>
+      <name>iOS</name>
+      <link>https://apps.apple.com/us/app/flipon/id1535461342</link>
+    </platform>
+    <platform>
+      <name>Android</name>
+      <link>https://play.google.com/store/apps/details?id=com.pid.flipon</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>3.99</value>
+    </price>
+    <price>
+      <currency>EUR</currency>
+      <value>3.99</value>
+    </price>
+  </prices>
+
+  <description>
+    Join Kat and her crew in an epic quest in FLIPON, a juicy, fun and fast-paced arcade puzzle game!
+  </description>
+
+  <histories>
+    <history>
+      <text>
+        Mine flipoblocks by aligning them to make combos, solve puzzles and defeat the (cute) bad guys! Embark your ship and visit 75+ different levels through 5+ planets. But beware, each planet is owned by a powerful guardian and each level is a new challenge.
+      </text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>CAMPAIGN: 75+ levels mixing 5 game modes: objectives, survival, boss fights, puzzles and challenges!</feature>
+    <feature>SCORE ATTACK: an infinite scoring mode with online leaderboards.</feature>
+    <feature>CHALLENGE: a procedural puzzle generator.</feature>
+    <feature>POWERS: discover and use wisely 6 different powers during your fights!</feature>
+    <feature>VERSUS: local multiplayer fights, up to 4 players!</feature>
+    <feature>LEVEL EDITOR: PC players can create their own levels.</feature>
+    <feature>LANGUAGES: English, French, Italian, German, Spanish, Simplified Chinese, Korean, Japanese, Brazilian Portuguese.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Flipon - Trailer</name>
+      <youtube>ry4ex4_T-oU</youtube>
+    </trailer>
+  </trailers>
+
+  <additionals>
+    <additional>
+      <title>Full asset pack</title>
+      <description>Download the complete presskit on</description>
+      <link>http://bit.ly/flipon_presskit</link>
+    </additional>
+    <additional>
+      <title>Level Editor</title>
+      <description>Create and share levels on</description>
+      <link>https://levels.flipon.net/</link>
+    </additional>
+    <additional>
+      <title>Soundtrack</title>
+      <description>Zander Noriega's music on</description>
+      <link>https://zandernoriega.bandcamp.com/</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Damien Mayance</person>
+      <website>https://dmayance.com/</website>
+      <role>Lead Developer</role>
+    </credit>
+    <credit>
+      <person>Aurélien Regard</person>
+      <website>https://aurelien-regard.blogspot.com/</website>
+      <role>2D Artist</role>
+    </credit>
+    <credit>
+      <person>Yoann Bazoge</person>
+      <website>https://fr.linkedin.com/in/yoann-bazoge</website>
+      <role>UI/UX Designer</role>
+    </credit>
+    <credit>
+      <person>Benjamin Magnan</person>
+      <website>https://www.artstation.com/dayster</website>
+      <role>Level Designer</role>
+    </credit>
+    <credit>
+      <person>Swann Ménage</person>
+      <website>http://swannmenage.fr/</website>
+      <role>Sound Designer</role>
+    </credit>
+    <credit>
+      <person>Zander Noriega</person>
+      <website>https://zandernoriega.bandcamp.com/</website>
+      <role>Musician</role>
+    </credit>
+    <credit>
+      <person>Pixelnest Studio</person>
+      <website>https://pixelnest.io/</website>
+      <role>Developer</role>
+    </credit>
+    <credit>
+      <person>TyGames</person>
+      <role>Publisher</role>
+    </credit>
+    <credit>
+      <person>Plug In Digital</person>
+      <website>https://plugindigital.com/</website>
+      <role>Help</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>contact@flipon.net</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/flipongame</link>
+    </contact>
+    <contact>
+      <name>Discord</name>
+      <link>https://discord.com/invite/taMGFcG9qs</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>https://www.flipon.net/</link>
+    </contact>
+  </contacts>
+</product>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Cosmo Cargo</title>
+  <website>http://cosmocargo.pixelnest.io/</website>
+
+  <release-dates>
+    <release-date>Q1 2027 (Steam)</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>Steam (PC/Mac/Linux)</name>
+      <link>https://store.steampowered.com/app/4028760/Cosmo_Cargo/</link>
+    </platform>
+  </platforms>
+
+  <description>
+    COSMO CARGO is an inventory autobattler roguelike PvE game in which you fight to maintain chaos in the galaxy. Collect and combine items in your ship to gain powerful effects and defeat the Administrators.
+  </description>
+
+  <histories>
+    <history>
+      <header>
+        The galaxy is in danger!
+      </header>
+      <text>
+        The fearsome Administrators are on a mission to organize the universe as they see fit, and destroy everything they consider disorderly. But there's still hope! A rebel force is preparing to foil their plans. Travel through different sectors and meet amazing aliens who can help you in your fight!
+      </text>
+    </history>
+    <history>
+      <header>
+        Items are essential!
+      </header>
+      <text>
+        Buy, trade, find and steal all kinds of wacky items with powerful effects. Combine them aboard your ship to create new synergies, high-powered chain reactions, and satisfying combos.
+      </text>
+    </history>
+    <history>
+      <header>
+        Recruit your crew
+      </header>
+      <text>
+        Traveling alone is no fun, and there's room in the ship's cockpit... Why not recruit some new crew members? These new characters can use their unique powers in combination with the ship's equipment for even more exciting combos.
+      </text>
+    </history>
+    <history>
+      <header>
+        Join the Rebels
+      </header>
+      <text>
+        The Administrators seek to eradicate disorder in the universe. Join the Rebels and help them defeat the minions of this fearsome organization. Once the minions have been defeated, your final mission will be to defeat the Chief Administrator — so you'd better be prepared!
+      </text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>COMBINE ITEMS: create new synergies, high-powered chain reactions, and satisfying combos aboard your ship.</feature>
+    <feature>UPGRADE: collect copies of your items to unlock new effects.</feature>
+    <feature>EXPAND YOUR INVENTORY: clear cluttered slots to unlock even more possibilities.</feature>
+    <feature>CREW MEMBERS: recruit new characters with unique powers that combine with your ship's equipment.</feature>
+    <feature>SPACE BATTLES: engage in epic fights matching inventory against inventory, against increasingly tough (and weird) enemies.</feature>
+    <feature>LANGUAGES: English, French.</feature>
+  </features>
+
+  <credits>
+    <credit>
+      <person>Pixelnest Studio</person>
+      <website>http://pixelnest.io/</website>
+      <role>Developer, Publisher</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>contact@pixelnest.io</mail>
+    </contact>
+    <contact>
+      <name>Bluesky</name>
+      <link>https://bsky.app/profile/pixelnest.io</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>http://cosmocargo.pixelnest.io/</link>
+    </contact>
+  </contacts>
+</product>
